@@ -1,0 +1,2536 @@
+name,date,age,gender,race,city,state
+Tim Elliot,02/01/15,53,M,asian,Shelton,WA
+Lewis Lee Lembke,02/01/15,47,M,white,Aloha,OR
+John Paul Quintero,03/01/15,23,M,hispanic,Wichita,KS
+Matthew Hoffman,04/01/15,32,M,white,San Francisco,CA
+Michael Rodriguez,04/01/15,39,M,hispanic,Evans,CO
+Kenneth Joe Brown,04/01/15,18,M,white,Guthrie,OK
+Kenneth Arnold Buck,05/01/15,22,M,hispanic,Chandler,AZ
+Brock Nichols,06/01/15,35,M,white,Assaria,KS
+Autumn Steele,06/01/15,34,F,white,Burlington,IA
+Leslie Sapp III,06/01/15,47,M,black,Knoxville,PA
+Patrick Wetter,06/01/15,25,M,white,Stockton,CA
+Ron Sneed,07/01/15,31,M,black,Freeport,TX
+Hashim Hanif Ibn Abdul-Rasheed,07/01/15,41,M,black,Columbus,OH
+Nicholas Ryan Brickman,07/01/15,30,M,white,Des Moines,IA
+Omarr Julian Maximillian Jackson,07/01/15,37,M,black,New Orleans,LA
+Loren Simpson,08/01/15,28,M,white,Huntley,MT
+James Dudley Barker,08/01/15,42,M,white,Salt Lake City,UT
+Artago Damon Howard,08/01/15,36,M,black,Strong,AR
+Thomas Hamby,08/01/15,49,M,white,Syracuse,UT
+Jimmy Foreman,09/01/15,71,M,white,England,AR
+Andy Martinez,09/01/15,33,M,hispanic,El Paso,TX
+Tommy Smith,11/01/15,39,M,white,Arcola,IL
+Brian  Barbosa,11/01/15,23,M,hispanic,South Gate,CA
+Salvador Figueroa,11/01/15,29,M,hispanic,North Las Vegas,NV
+John Edward O\'Keefe,13/01/15,34,M,white,Albuquerque,NM
+Richard McClendon,13/01/15,43,M,white,Jourdanton,TX
+Marcus Golden,14/01/15,24,M,black,St. Paul,MN
+Michael Goebel,14/01/15,29,M,white,Franklin County,MO
+Mario Jordan,14/01/15,34,M,black,Chesapeake,VA
+Talbot Schroeder,14/01/15,75,M,white,Old Bridge,NJ
+Robert Edwards,14/01/15,68,M,white,Lake Jackson,TX
+Jeffrey R. Nielson,14/01/15,34,M,white,Draper,UT
+Donte Sowell,15/01/15,27,M,black,Indianapolis,IN
+Kavonda Earl Payton,15/01/15,39,M,black,Aurora,CO
+Quincy Reed Reindl,15/01/15,24,M,white,Bloomington,MN
+Jose Ceja,15/01/15,36,M,hispanic,Fairfield,CA
+Nathan Massey,15/01/15,33,M,white,Evangeline Parish,LA
+Scott Hall,16/01/15,41,M,white,Mabank,TX
+Zaki Shinwary,16/01/15,48,M,Other,Fremont,CA
+Terence Walker,17/01/15,21,M,black,Muskogee,OK
+Pablo Meza,17/01/15,24,M,hispanic,Los Angeles,CA
+Daniel Brumley,17/01/15,27,M,hispanic,Fort Worth,TX
+Jonathan Guillory,18/01/15,32,M,white,Maricopa,AZ
+Carter Castle,18/01/15,67,M,white,Gunlock,KY
+Paul Campbell,19/01/15,49,M,white,Weymouth,MA
+Dewayne Carr,20/01/15,42,M,black,Scottsdale,AZ
+Todd Allen Hodge,21/01/15,36,M,white,Hemet,CA
+Miguel Angel de Santos-Rodriguez,21/01/15,36,M,hispanic,Chapeno,TX
+Isaac Holmes,21/01/15,19,M,black,St. Louis,MO
+Andrew Toto,21/01/15,54,M,white,Derry,NH
+Tiano Meton,22/01/15,25,M,black,Sierra Blanca,TX
+Kristiana Coignard,22/01/15,17,F,white,Longview,TX
+Robert Francis Mesch,23/01/15,61,M,white,Austin,TX
+Demaris Turner,23/01/15,29,M,black,Fort Lauderdale,FL
+Jose Antonio Espinoza Ruiz,23/01/15,56,M,hispanic,Levelland,TX
+Wendell King,24/01/15,40,M,white,Fort Worth,TX
+Daryl Myler,24/01/15,45,M,white,Rexburg,ID
+Darin Hutchins,24/01/15,26,M,black,Baltimore,MD
+Orlando Jude Lopez,25/01/15,26,M,hispanic,Pueblo,CO
+William Campbell,25/01/15,59,M,Other,Winslow,NJ
+Jessie Hernandez,26/01/15,17,F,hispanic,Denver,CO
+Raymond Kmetz,26/01/15,68,M,white,New Hope,MN
+Joshua Omar Garcia,26/01/15,24,M,hispanic,Tahoka,TX
+David Garcia,26/01/15,34,M,hispanic,Wasco,CA
+Nicolas Leland Tewa,27/01/15,26,M,native_american,Phoenix,AZ
+Chris Ingram,27/01/15,29,M,white,Morenci,AZ
+Jermonte Fletcher,27/01/15,33,M,black,Columbus,OH
+Tiffany Terry,27/01/15,39,F,white,Omaha,NE
+Alan Lance Alverson,28/01/15,45,M,white,Sunset,TX
+Matautu Nuu,28/01/15,35,M,asian,Stockton,CA
+Cody Karasek,28/01/15,26,M,white,Rosenberg,TX
+Ralph Willis,29/01/15,42,M,white,Stillwater,OK
+Alan James,29/01/15,31,M,white,Wyoming,MI
+John Barry Marshall,30/01/15,48,M,white,Billings,MT
+Victor Manuel Reyes,31/01/15,31,M,hispanic,Houston,TX
+Edward Donnell Bright,31/01/15,54,M,black,Randallstown,MD
+Jacob Haglund,02/02/15,17,M,white,Bay City,MI
+David Kassick,02/02/15,59,M,white,Hummelstown,PA
+Francis Murphy Rose III,02/02/15,42,M,white,Apple Valley,CA
+Ledarius D. Williams,03/02/15,23,M,black,St. Louis,MO
+Yuvette Henderson,03/02/15,38,F,black,Emeryville,CA
+Dewayne Deshawn Ward,03/02/15,29,M,black,Antioch,CA
+Anthony Purvis,03/02/15,45,M,white,Douglas,GA
+Jeremy Lett,04/02/15,28,M,black,Tallahassee,FL
+Izzy Colon,04/02/15,37,M,hispanic,Orlando,FL
+Salvador Muna,04/02/15,28,M,hispanic,Tempe,AZ
+Joaquin Hernandez,04/02/15,28,M,hispanic,Tempe,AZ
+Jimmy Ray Robinson Jr.,04/02/15,51,M,black,Lorena,TX
+Markell Atkins,04/02/15,36,M,black,Memphis,TN
+Paul Alfred Eugene Johnson,05/02/15,59,M,white,Chino,CA
+Herbert Hill,06/02/15,25,M,black,Oklahoma City,OK
+John  Sawyer,07/02/15,26,M,white,Calimesa,CA
+James Allen,07/02/15,74,M,black,Gastonia,NC
+John Martin Whittaker,08/02/15,33,M,white,Anchorage,AK
+Sawyer Flache,08/02/15,27,M,white,Austin,TX
+Vincent Cordaro,08/02/15,57,M,white,New City,NY
+Joseph Paffen,08/02/15,46,M,white,Orange County,FL
+Larry Hostetter,08/02/15,41,M,white,Nocona,TX
+Kenneth Kreyssig,09/02/15,61,M,white,Smyrna,ME
+Desmond Luster,09/02/15,45,M,black,Dallas,TX
+Antonio Zambrano-Montes,10/02/15,35,M,hispanic,Pasco,WA
+Anthony Bess,10/02/15,49,M,black,Whitehaven,TN
+Brian Fritze,10/02/15,45,M,white,New Castle,CO
+Phillip Watkins,11/02/15,23,M,black,San Jose,CA
+Fletcher Ray Stewart,11/02/15,46,M,white,Dadeville,AL
+Jonathan Larry Harden,13/02/15,23,M,white,San Bernardino,CA
+Andres Lara-Rodriguez,13/02/15,21,M,hispanic,Kansas City,KS
+Richard Carlin,13/02/15,35,M,hispanic,Reading,PA
+Matthew D. Belk,13/02/15,27,M,white,McLemoresville,TN
+Daniel Mejia,13/02/15,37,M,hispanic,San Manuel,AZ
+Jason C. Hendrix,14/02/15,16,M,white,Essex,MD
+Roy Joy Day,14/02/15,51,M,white,Laredo,TX
+Lavall Hall,15/02/15,25,M,black,Miami Gardens,FL
+Howard Brent Means Jr.,15/02/15,34,M,white,Iuka,MS
+Bruce Steward,15/02/15,34,M,white,Colton,OR
+Lawrence Caldwell,16/02/15,56,M,white,Marana,AZ
+Michael K. Casper,16/02/15,26,M,white,Boise,ID
+Cody Evans,16/02/15,24,M,white,Provo,UT
+Betty Sexton,17/02/15,43,F,white,Gaston County,NC
+Michael Ireland,17/02/15,31,M,white,Springfield,MO
+Matthew Lundy,17/02/15,32,M,white,Eaton Rapids Township,MI
+Douglas Sparks,17/02/15,30,M,white,Tewksbury,MA
+Pedro Juan Saldivar,17/02/15,50,M,hispanic,Del Rio,TX
+Janisha Fonville,18/02/15,20,F,black,Charlotte,NC
+Alejandro Salazar,20/02/15,,M,hispanic,Houston,TX
+Ruben Villalpando,20/02/15,31,M,hispanic,Euless,TX
+Stanley Lamar Grant,20/02/15,38,M,black,Homewood,AL
+Douglas Harris,20/02/15,77,M,black,Birmingham,AL
+Jason Moncrief Carter,21/02/15,41,M,white,Ruidoso,NM
+Kent Norman,21/02/15,51,M,white,Indianapolis,IN
+Bradford Leonard,22/02/15,50,M,white,Palm Bay,FL
+Jerome Nichols,23/02/15,42,M,white,Allentown,PA
+Daniel Elrod,23/02/15,39,M,white,Omaha,NE
+Robert Kohl,23/02/15,47,M,white,Denham Springs,LA
+Michael Wayne Smashey,23/02/15,37,M,white,Powder Springs,GA
+Anthony Giaquinta,23/02/15,41,M,white,Clarkesville,GA
+A\'Donte Washington,23/02/15,16,M,black,Millbrook,AL
+Joseph Biegert,24/02/15,30,M,white,Green Bay,WI
+Glenn Lewis,25/02/15,27,M,black,Oklahoma City,OK
+Francis Spivey,25/02/15,43,M,white,Las Vegas,NV
+Alexander Phillip Long,26/02/15,31,M,white,Terre Haute,IN
+David Cuevas,26/02/15,42,M,hispanic,Lakeland,FL
+Amilcar Perez-Lopez,26/02/15,21,M,hispanic,San Francisco,CA
+Rodney Biggs,26/02/15,49,M,white,Gulfport,MS
+Crystal Lee Miley Harry,26/02/15,34,F,white,Sylvester,GA
+Ernesto Javiar Canepa Diaz,27/02/15,27,M,hispanic,Santa Ana,CA
+Chazsten Freeman,28/02/15,24,M,white,Pelzer,SC
+Deven Guilford,28/02/15,17,M,white,Roxand Township,MI
+Thomas Allen,28/02/15,34,M,black,St Louis,MO
+Jessica Uribe,28/02/15,28,F,hispanic,Tucson,AZ
+Cornelius J. Parker,28/02/15,28,M,black,Columbia,MO
+Ian Sherrod,28/02/15,40,M,black,Tarboro,NC
+Stephanie Hill,28/02/15,37,F,white,La Paz County,AZ
+Donald Lewis Matkins,01/03/15,49,M,white,Barton,MS
+Charly Leundeu Keunang,01/03/15,43,M,black,Los Angeles,CA
+Hung Trieu,01/03/15,35,M,asian,Houston,TX
+Shaquille Barrow,02/03/15,20,M,black,Joilet,IL
+Fednel Rhinvil,03/03/15,25,M,black,Salisbury,MD
+Matthew Metz,03/03/15,25,M,white,Tempe,AZ
+Derek Cruice,04/03/15,26,M,white,Deltona,FL
+Carl Lao,04/03/15,28,M,asian,Stockton,CA
+Tyrone Ryerson Lawrence,05/03/15,45,M,black,Milwaukee,WI
+Sergio Alexander Navas,05/03/15,36,M,hispanic,Burbank,CA
+Tyson Hubbard,05/03/15,34,M,white,Lincoln,NE
+Naeschylus  Vinzant,06/03/15,37,M,black,Aurora,CO
+Andrew Anthony Williams,06/03/15,48,M,black,Putnam Hall,FL
+Tony Robinson,06/03/15,19,M,black,Madison,WI
+Adam Reinhart,07/03/15,29,M,white,Phoenix,AZ
+Aurelio Duarte,08/03/15,40,M,hispanic,Oklahoma City,OK
+Michael McKillop,08/03/15,35,M,white,Claymont,DE
+Monique Jenee Deckard,08/03/15,43,F,black,Anaheim,CA
+Lester Brown,09/03/15,58,M,white,Brevard,NC
+James Brent Damon,09/03/15,46,M,white,Dinosaur,CO
+Cedrick Lamont Bishop,09/03/15,30,M,black,Cocoa,FL
+Anthony Hill,09/03/15,27,M,black,Atlanta,GA
+Jamie Croom,10/03/15,31,M,black,Baton Rouge,LA
+Christopher Mitchell,10/03/15,23,M,white,Port Wentworth,GA
+Edixon  Franco,10/03/15,37,M,hispanic,Ontario,CA
+Theodore Johnson,10/03/15,64,M,black,Cleveland,OH
+James Greenwell,11/03/15,31,M,white,Memphis,TN
+Benito Osorio,11/03/15,39,M,hispanic,Santa Ana,CA
+Ryan Dean Burgess,11/03/15,31,M,white,Kingman,AZ
+Aaron Valdez,11/03/15,25,M,hispanic,Los Angeles,CA
+Gilbert Fleury,11/03/15,54,M,white,Bay Minette,AL
+William Russell  Smith,11/03/15,53,M,white,Hoover,AL
+Terry Garnett Jr.,11/03/15,37,M,black,Elkton,MD
+Bobby Gross,12/03/15,35,M,black,Washington,DC
+Fred  Liggett,13/03/15,59,M,white,Kansas City,MO
+Andrew Driver,13/03/15,36,M,white,Fontana,CA
+Antonio Perez,13/03/15,32,M,hispanic,Walnut Creek,CA
+James Richard Jimenez,13/03/15,41,M,hispanic,Napa,CA
+Richard Castilleja,14/03/15,29,M,hispanic,San Antonio,TX
+Clifton Reintzel,14/03/15,53,M,white,Follansbee,WV
+Aaron Siler,14/03/15,26,M,white,Kenosha,WI
+Troy Ray Boyd,15/03/15,27,M,white,Ruth,MS
+Justin Tolkinen,16/03/15,28,M,white,St. Paul,MN
+William Dean Poole,16/03/15,52,M,white,Gastonia,NC
+Eugene Smith,17/03/15,20,M,white,Onalaska,TX
+Roberto Leon,17/03/15,22,M,hispanic,Sacramento,CA
+Andrew Charles Shipley,17/03/15,49,M,white,Medford,OR
+Declan Owen,17/03/15,24,M,white,Dublin,NC
+Alice Brown,17/03/15,24,F,white,San Francisco,CA
+Jeff Alexander,18/03/15,47,M,white,Bakersfield,CA
+Kaylene Stone,18/03/15,49,F,white,Glendale,AZ
+Garland Lee Wingo,18/03/15,64,M,white,Tallahassee,FL
+Kendre Alston,19/03/15,16,M,black,Jacksonville,FL
+Jamison  Childress,19/03/15,20,M,white,Sumas,WA
+Robert Burdge,19/03/15,36,M,white,Bakersfield,CA
+Shane Watkins,19/03/15,39,M,white,Lawrence County,AL
+Brandon Jones,19/03/15,18,M,black,Cleveland,OH
+Brandon Rapp,19/03/15,31,M,white,Middleton,ID
+Justin Fowler,20/03/15,24,M,native_american,Red Valley,AZ
+Richard White,20/03/15,63,M,black,New Orleans,LA
+Tyrel Vick,20/03/15,34,M,white,Coal County,OK
+James Ellis,21/03/15,44,M,white,Clarendon,NY
+Gary Page,21/03/15,60,M,white,Harmony,IN
+Jason Smith,21/03/15,42,M,white,Columbus,OH
+Enoch Gaver,21/03/15,21,M,white,Cottonwood,AZ
+Phillip Conley,22/03/15,37,M,white,Vallejo,CA
+Christopher Ryan Healy,22/03/15,36,M,white,Portland,OR
+Denzel Brown,22/03/15,21,M,black,Islip,NY
+Devin Gates,23/03/15,24,M,black,Santa Clara,CA
+Stephen Snyder,24/03/15,38,M,white,Fond du Lac,WI
+Walter J. Brown III,24/03/15,29,M,black,Portsmouth,VA
+Scott Dunham,24/03/15,57,M,white,San Jose,CA
+Nicholas Thomas,25/03/15,23,M,black,Smyrna,GA
+Jeremy Lorenza Kelly,25/03/15,27,M,black,Johnsonville,SC
+Victor Terrazas,25/03/15,28,M,hispanic,South Los Angeles,CA
+Joseph Tassinari,25/03/15,63,M,white,Glendale,AZ
+Deanne Choate,26/03/15,53,F,white,Gardner,KS
+Adrian Solis,26/03/15,35,M,hispanic,Wilmington,CA
+Gary Kendrick,27/03/15,56,M,white,Encinitas,CA
+Jamalis Hall,27/03/15,39,M,black,Fort Pierce,FL
+Adrian Hernandez,27/03/15,23,M,hispanic,Bakersfield,CA
+Neil Seifert,27/03/15,40,M,white,Webster,MA
+Megan Hockaday,27/03/15,26,F,black,Oxnard,CA
+Harvey Oates,27/03/15,42,M,white,Fort Ashby,WV
+Angelo West,27/03/15,41,M,black,Boston,MA
+Robert Rooker,29/03/15,26,M,white,Jasper,OH
+Byron Herbert,29/03/15,29,M,black,Elizabethtown,KY
+Brian Babb,30/03/15,49,M,white,Eugene,OR
+John Marcell Allen,30/03/15,54,M,Other,Boulder City,NV
+Jeremy Anderson,31/03/15,36,M,white,Carollwood,FL
+Benjamin Quezada,31/03/15,21,M,hispanic,Baytown,TX
+Mya Hall,31/03/15,27,F,black,Fort Meade,MD
+Robert Washington,01/04/15,37,M,black,Hawthorne,CA
+Shawn Clyde,01/04/15,36,M,white,Hamilton,NJ
+Darrin Langford,02/04/15,32,M,black,Rock Island,IL
+Donald Hicks,02/04/15,63,M,white,Metropolis,IL
+Eric Harris,02/04/15,44,M,black,Tulsa,OK
+Aaron Rutledge,02/04/15,27,M,white,Pineville,LA
+Christopher Prevatt,03/04/15,38,M,white,Winchester,VA
+Justus Howell,04/04/15,17,M,black,Zion,IL
+Walter Scott,04/04/15,50,M,black,North Charleston,SC
+Paul Anderson,04/04/15,31,M,black,Orange,CA
+Ethan Noll,04/04/15,34,M,white,Edgewood,NM
+Ken Cockerel,05/04/15,51,M,white,Phoenix,AZ
+Richard Hanna,05/04/15,56,M,white,Tehachapi,CA
+Alexander Myers,06/04/15,23,M,white,Indianapolis,IN
+Desmond Willis,06/04/15,25,M,black,Harvey,LA
+Tyrell J. Larsen,06/04/15,31,M,white,Jefferson County,ID
+Erick Rose,07/04/15,32,M,white,Pottawatomie County,OK
+Douglas Faith,08/04/15,60,M,white,San Antonio,TX
+Dexter Pernell Bethea,08/04/15,42,M,black,Valdosta,GA
+Roberto Rodriguez,08/04/15,39,M,hispanic,Los Angeles,CA
+Joseph Jeremy Weber,08/04/15,28,M,asian,Sunnyvale,CA
+Mark Smith,09/04/15,54,M,Other,Kellyville,OK
+Gordon Kimbrell,09/04/15,22,M,white,Navarre,FL
+Don Smith,09/04/15,29,M,black,Monon,IN
+Jess Leipold,09/04/15,31,M,white,Straban Township,PA
+Phillip Burgess,09/04/15,28,M,white,Boiling Springs,SC
+Angel Cresencio Corona,10/04/15,21,M,hispanic,Corning,CA
+Richard Reed,10/04/15,38,M,white,Topeka,KS
+Donald Allen,11/04/15,66,M,white,Sand Springs,OK
+Mack Long,12/04/15,36,M,black,Indianapolis,IN
+Richard Dale Weaver,12/04/15,83,M,white,Oklahoma City,OK
+Jason Lee Evans,12/04/15,32,M,white,Salemburg,NC
+Isaac Jimenez,13/04/15,27,M,hispanic,Alton,IL
+Colby Robinson,14/04/15,26,M,black,DeSoto,TX
+Christopher Grant Finley,14/04/15,31,M,white,Jonesboro,AR
+Tevin Barkley,15/04/15,22,M,black,Miami,FL
+Dante Noble,15/04/15,41,M,black,Spartanburg,SC
+Frank Shephard,15/04/15,41,M,black,Houston,TX
+Mark W. Adair,15/04/15,51,M,white,Columbia,MO
+Stanley Watson,15/04/15,72,M,white,Ca\x96on City,CO
+Ernesto Flores,15/04/15,52,M,hispanic,Montclair,CA
+Rodolfo Velazquez,16/04/15,47,M,hispanic,Shafter,CA
+Jeffrey Kemp,17/04/15,18,M,black,Chicago,IL
+Elias Cavazos,17/04/15,29,M,hispanic,Hemet,CA
+Thaddeus McCarroll,17/04/15,23,M,black,Jennings,MO
+Erik Tellez,18/04/15,43,M,hispanic,Phoenix,AZ
+Grover Sapp,18/04/15,45,M,white,Panama City,FL
+Michael Foster,19/04/15,40,M,white,Wilmore,KY
+Dana Hlavinka,19/04/15,44,M,white,Sidney,NE
+Santos Cortez Hernandez,20/04/15,25,M,hispanic,Mission,TX
+Daniel Wolfe,21/04/15,35,M,black,Trenton,NJ
+Daniel Covarrubias,21/04/15,37,M,native_american,Lakewood,WA
+Kimber Key,21/04/15,59,M,white,Irmo,SC
+Luis Martinez,21/04/15,35,M,hispanic,Los Angeles,CA
+William Chapman,22/04/15,18,M,black,Portsmouth,VA
+Carlos Saavedra Ramirez,22/04/15,51,M,hispanic,Bisbee,AZ
+Jonathan Efraim,22/04/15,30,M,white,Queens,NY
+Reginald McGregor,22/04/15,31,M,black,Fort Worth,TX
+Lue Vang,22/04/15,39,M,asian,Eldorado Springs,CO
+Andrew Valadez,23/04/15,26,M,white,Sylmar,CA
+Joseph Potts,23/04/15,51,M,white,Rufe,OK
+Hector Morejon,23/04/15,19,M,hispanic,Long Beach,CA
+Karen Janks,24/04/15,46,F,white,Windsor,CA
+Mark Cecil Hawkins,24/04/15,49,M,white,Eugene,OR
+Gary Timmie  Collins,24/04/15,63,M,white,Miami,OK
+Todd Jamal Dye,24/04/15,20,M,black,Trinidad,CO
+Brandon Lawrence,25/04/15,25,M,white,Victoria,TX
+David Felix,25/04/15,24,M,black,New York,NY
+Daniel Davis,25/04/15,58,M,white,Clermont,FL
+Billy Joe Patrick,26/04/15,29,M,white,Bunch,OK
+Albert Hanson,26/04/15,76,M,white,Kings County,CA
+Dean Genova,26/04/15,45,M,white,Fountain Valley,CA
+Terrance  Kellom,27/04/15,20,M,black,Detroit,MI
+David Parker,28/04/15,58,M,white,Mansfield,OH
+Jared Johnson,28/04/15,21,M,black,New Orleans,LA
+Joshua Green,28/04/15,27,M,white,Marion,IL
+Andrew Jackson,29/04/15,26,M,white,Chickasha,OK
+Joshua Deysie,29/04/15,33,M,hispanic,Mesa,AZ
+Luis Chavez-Diaz,29/04/15,27,M,hispanic,Elk Grove,CA
+Alexia Christian,29/04/15,25,F,black,Atlanta,GA
+Jeffrey Adkins,29/04/15,53,M,black,Emporia,VA
+John Acree,29/04/15,53,M,white,Nashville,TN
+Fridoon Zalbeg Nehad,30/04/15,42,M,Other,San Diego,CA
+Erick Emmanuel Sanchez,30/04/15,22,M,hispanic,El Paso,TX
+Kenneth Mathena,02/05/15,52,M,white,Smyrna,DE
+Kevin Vance Norton,03/05/15,36,M,white,Roosevelt,UT
+Elton Simpson,03/05/15,30,M,black,Garland,TX
+Nadir Soofi,03/05/15,34,M,Other,Garland,TX
+Billy Grimm,03/05/15,44,M,hispanic,Albuquerque,NM
+Michael Asher,03/05/15,53,M,white,Chavies,KY
+Roark Cook,04/05/15,36,M,white,Kennewick,WA
+Brendon Glenn,05/05/15,29,M,black,Venice,CA
+Thong Kien Ma,05/05/15,32,M,asian,South El Monte,CA
+Robert A. Frost,05/05/15,46,M,white,Pulaski,VA
+David William Johnson,06/05/15,18,M,white,Wake Forest,NC
+Joseph Roy,07/05/15,72,M,Other,Lawrenceville,GA
+Michael Murphy,07/05/15,38,M,white,Beacon,NY
+Nephi Arriguin,07/05/15,21,M,black,Cerritos,CA
+Shaun Johnson,08/05/15,35,M,white,Kearny,AZ
+David Schwalm,08/05/15,58,M,white,Constantia,NY
+Dedrick Marshall,08/05/15,48,M,black,Harvey,LA
+Sam Holmes,08/05/15,31,M,black,Fridley,MN
+Stephen  Cunningham,10/05/15,47,M,white,Tacoma,WA
+Lionel Lorenzo Young,10/05/15,34,M,black,Landover,MD
+Kelvin Goldston,11/05/15,30,M,black,Fort Worth,TX
+Justin Way,11/05/15,28,M,white,St. Augustine,FL
+D\'Angelo Stallworth,12/05/15,28,M,black,Jacksonville,FL
+Bruce Zalonka,12/05/15,46,M,Other,Honolulu,HI
+Alec Ouzounian,12/05/15,40,M,white,Rancho Santa Margarita,CA
+Sean Michael Pelletier,14/05/15,37,M,white,Portage,MI
+Cary Martin,14/05/15,53,M,white,St. Augustine,FL
+Mark Farrar,15/05/15,41,M,white,Rockford,IL
+Matt Coates,15/05/15,42,M,white,Sacramento,CA
+Ronell Wade,16/05/15,45,M,black,Harvey,IL
+Dennis  Fiel,17/05/15,34,M,white,San Diego,CA
+Austin Goodner,17/05/15,18,M,white,St. Petersburg,FL
+Timothy Jones,17/05/15,27,M,white,Ruidoso,NM
+Alfredo Rials-Torres,19/05/15,54,M,hispanic,Arlington,VA
+Jonathan McIntosh,19/05/15,35,M,white,Cabot,AR
+David  Gaines,19/05/15,17,M,white,Grand Junction,CO
+Anthony Gomez,20/05/15,29,M,black,Lancaster,PA
+Jonathan  Colley,20/05/15,52,M,white,Green,OH
+Chrislon Talbott,20/05/15,38,M,black,Owensboro,KY
+Nikki Jo Burtsfield,20/05/15,39,F,white,Gillette,WY
+Marcus Wheeler,20/05/15,26,M,black,Omaha,NE
+David Alejandro Gandara,21/05/15,22,M,hispanic,El Paso,TX
+Javoris Washington,21/05/15,29,M,black,Ft. Lauderdale,FL
+James Anthony Cooper,21/05/15,43,M,white,North Charleston,SC
+Elvin Diaz,21/05/15,24,M,hispanic,Hackensack,NJ
+Jerome Caldwell,21/05/15,32,M,black,Charleston,SC
+Michael Lowery,22/05/15,40,M,white,Somerset,PA
+Caso Jackson,23/05/15,25,M,black,Detroit,MI
+James Horn,23/05/15,47,M,white,Sedalia,MO
+Eric Robinson,23/05/15,40,M,white,Eagar,AZ
+Cassandra Bolin,25/05/15,31,F,white,Austin,TX
+Anthony Briggs,25/05/15,36,M,black,Huntsville,AL
+Millard Tallant III,26/05/15,62,M,white,Snohomish,WA
+Dalton Branch,26/05/15,51,M,black,Queens,NY
+Jessie  Williams,26/05/15,24,M,white,Bossier City,LA
+Scott McAllister,27/05/15,39,M,white,Ideal Beach,NJ
+Garrett  Sandeno,27/05/15,24,M,white,Edmond,OK
+Harry Davis,27/05/15,57,M,white,Rockville,GA
+Feras Morad,27/05/15,20,M,Other,Long Beach,CA
+Simon Hubble,27/05/15,33,M,white,Alpine,CA
+Darrell Morgan,28/05/15,60,M,white,Lancaster,SC
+James Strong,28/05/15,32,M,black,Northglenn,CO
+Kenneth Dothard,28/05/15,40,M,black,Carrollton,GA
+Kyle Baker,28/05/15,18,M,white,Trenton,MI
+Kevin Allen,29/05/15,36,M,black,Lyndhurst,NJ
+Nehemiah Fischer,29/05/15,35,M,white,Okmulgee County,OK
+Robert Box,29/05/15,55,M,white,Wilderville,OR
+Ebin Lamont Proctor,30/05/15,19,M,white,Cottonwood,AZ
+Alexander Tirado Rivera,30/05/15,39,M,hispanic,Nashville,TN
+James Anthony Morris,31/05/15,40,M,Other,Medford,OR
+James Bushey,31/05/15,47,M,white,Palestine,TX
+Joseph Ladd,01/06/15,23,M,white,Greece,NY
+Usaamah Rahim,02/06/15,26,M,black,Roslindale,MA
+Kamal Dajani,02/06/15,26,M,white,Azle,TX
+Lorenzo Garza,03/06/15,46,M,hispanic,Delano,CA
+Rudy Baca,03/06/15,36,M,hispanic,Los Lunas,NM
+Miguel Martinez,03/06/15,18,M,hispanic,Ellis County,TX
+Edelmiro Hernandez,03/06/15,33,M,hispanic,Fuqua,TX
+Ronald Neal,03/06/15,56,M,white,Byram,NJ
+Jesus Quezada Gomez,05/06/15,50,M,hispanic,Santa Maria,CA
+Christie Cathers,05/06/15,45,F,white,Morgantown,WV
+Demouria Hogg,06/06/15,30,M,black,Oakland,CA
+James Smillie,06/06/15,53,M,white,North Port,FL
+Alejandro Campos Fernandez,06/06/15,45,M,hispanic,Watsonsville,CA
+Joe Nevels,06/06/15,42,M,white,Midland,TX
+Damien Ramirez,06/06/15,27,M,hispanic,Strasburg,CO
+Matthew Wayne McDaniel,07/06/15,36,M,white,Melbourne,FL
+Gene Marshall,07/06/15,58,M,white,Woodland,WA
+James Johnson,08/06/15,54,M,Other,Beech Grove,IN
+Rene Garcia,08/06/15,30,M,hispanic,Anaheim,CA
+Richard Warolf,08/06/15,69,M,white,Sun City,AZ
+Jeremy Linhart,09/06/15,30,M,white,Findlay,OH
+Greg  Hartley,09/06/15,45,M,white,Tomball,TX
+QuanDavier Hicks,09/06/15,22,M,black,Cincinnati,OH
+Ryan Bolinger,09/06/15,28,M,white,Des Moines,IA
+Isiah Hampton,10/06/15,19,M,black,Bronx,NY
+Charles Ziegler,11/06/15,40,M,black,Pompano Beach,FL
+Raymond  Phillips,11/06/15,86,M,Other,Columbia,TN
+Fritz Severe,11/06/15,46,M,black,Miami,FL
+Mark Flores,11/06/15,28,M,hispanic,Bexar County,TX
+Raymond Peralta-Lantigua,11/06/15,22,M,hispanic,Hackensack,NJ
+Shelly Haendiges,12/06/15,17,F,white,Kokomo,IN
+Anthony Hodge,13/06/15,46,M,white,Fort Wayne,IN
+Deng Manyoun,13/06/15,35,M,black,Louisville,KY
+James Boulware,13/06/15,35,M,white,Hutchins,TX
+Kenneth Garcia,14/06/15,28,M,hispanic,Stockton,CA
+Zane Terryn,14/06/15,15,M,white,Cocoa,FL
+Kris Jackson,15/06/15,22,M,black,South Lake Tahoe,CA
+Christopher DeLeon,16/06/15,28,M,hispanic,Visalia,CA
+Joe Charboneau,16/06/15,31,M,native_american,Wood Lake,ND
+Wendy Chappell,17/06/15,40,F,white,Clanton,AL
+Kenneth Lanphier,17/06/15,48,M,white,Hobbs,NM
+Oleg Tcherniak,18/06/15,58,M,white,Coney Island,NY
+Santos Laboy,19/06/15,44,M,hispanic,Boston,MA
+Trepierre Hummons,19/06/15,21,M,black,Cincinnati,OH
+Louis Atencio,19/06/15,50,M,hispanic,Greeley,CO
+Alfontish Cockerham,20/06/15,23,M,black,Chicago,IL
+Adrian Simental,21/06/15,24,M,hispanic,Azusa,CA
+Charles  Marshall,21/06/15,49,M,white,Houston,TX
+James Monroe Barrett,22/06/15,60,M,white,Ronda,NC
+Eduardo Reyes,22/06/15,35,M,hispanic,Citrus Heights,CA
+Tyler Wicks,22/06/15,29,M,white,Augusta,GA
+Tyrone Harris,22/06/15,20,M,black,Pittsburgh,PA
+Joshua Dyer,23/06/15,34,M,white,Indianapolis,IN
+Jonathan Wilson,23/06/15,22,M,white,Hutchinson,KS
+Randall Waddel,23/06/15,49,M,white,Weatherford,TX
+Taylor Culbertson,23/06/15,32,M,white,Omaha,NE
+Damien A. Harrell,24/06/15,26,M,black,York County,VA
+Spencer McCain,25/06/15,41,M,black,Owings Mills,MD
+Gilbert Jake Vanderburgh,25/06/15,61,M,white,Fresno,CA
+Richard Matt,26/06/15,49,M,white,Malone,NY
+Joe Angel Cisneros,26/06/15,28,M,hispanic,San Antonio,TX
+Joshua Crittenden,27/06/15,35,M,white,Tahlequah,OK
+Alan  Bellew,28/06/15,29,M,white,Portland,OR
+Richard LaPort,29/06/15,51,M,white,Edinburg,NY
+Clay Alan  Lickteig,30/06/15,52,M,white,Franklin,NC
+Kevin Lamont Judson,01/07/15,24,M,black,McMinnville,OR
+Kaleb Landon,01/07/15,32,M,white,Josephine County,OR
+Douglas Buckley,02/07/15,45,M,white,Brockton,MA
+Ton Nguyen,02/07/15,60,M,asian,San Diego,CA
+Victor Emanuel Larosa,02/07/15,23,M,black,Jacksonville,FL
+Brian Johnson,02/07/15,59,M,Other,Meadow Bridge,WV
+Cesar A. Limon Juarez,03/07/15,27,M,hispanic,West Covina,CA
+Arturo Lopez,03/07/15,46,M,hispanic,Lancaster,CA
+Oscar Camacho,03/07/15,33,M,hispanic,Camden,NJ
+Joseph Julian,03/07/15,40,M,white,Miami Beach,FL
+Robert Elando Malone,04/07/15,42,M,black,Oklahoma City,OK
+Michael Shannon Gaby,04/07/15,37,M,white,Morristown,TN
+Kawanza Beaty,04/07/15,23,M,black,Newport News,VA
+Bryan David Bauer,04/07/15,36,M,white,Henderson,NV
+John Deming,05/07/15,19,M,white,Pleasanton,CA
+Michael Holt,05/07/15,35,M,white,Austin,TX
+Richard Munroe,05/07/15,25,M,white,Austin,TX
+Johnny Ray Anderson,05/07/15,43,M,white,Hawaiian Gardens,CA
+Tyler Rogers,06/07/15,20,M,white,Oklahoma City,OK
+Hagen Esty-Lennon,06/07/15,42,M,white,Bath,NH
+David Oliva Sarabia,06/07/15,42,M,hispanic,Atwater,CA
+John Leonard Berry,06/07/15,31,M,white,Lakewood,CA
+Jason Hendley,06/07/15,29,M,black,Los Angeles,CA
+Marcellus Jamarcus Burley,07/07/15,18,M,black,Houston,TX
+Adam Dujanovic,07/07/15,33,M,white,Mesa,AZ
+Joe Cody,07/07/15,59,M,white,Dallas,TX
+Daniel Hernandez,07/07/15,47,M,hispanic,Bakersfield,CA
+Jose Graciano Lopez,07/07/15,39,M,hispanic,Edinburg,TX
+Tremaine Dantzler,07/07/15,37,M,black,Atlantic City,NJ
+Nicholas Booth,07/07/15,35,M,white,Sugar Creek,MO
+Joshua Blough,07/07/15,28,M,white,Elizabethtown,KY
+Michael Terence Westrich,08/07/15,59,M,white,Beaverton,OR
+Dallas Shatley,08/07/15,62,M,white,Ashe County,NC
+Rocco Joseph Palmisano,09/07/15,50,M,white,Parowan,UT
+Robert Hammonds,09/07/15,68,M,white,Phoenix,AZ
+Martice Milliner,09/07/15,27,M,black,Chicago,IL
+Cyrus Hurtado,09/07/15,17,M,white,Boulder Creek,CA
+Neil White,09/07/15,38,M,white,Los Angeles,CA
+Javon Hawkins,09/07/15,21,M,black,Kansas City,MO
+James Michael Todora,10/07/15,54,M,white,Las Vegas,NV
+Freddie Blue,10/07/15,20,M,black,Covington,GA
+Eugene McSwain,10/07/15,25,M,black,Chicago,IL
+Billy Maine,11/07/15,31,M,white,Olivehurst,CA
+Paul Castaway,12/07/15,35,M,native_american,Denver,CO
+Salvado Ellswood,12/07/15,36,M,black,Plantation,FL
+David Lepine,12/07/15,60,M,white,Austin,TX
+Matthew Watson,12/07/15,24,M,white,River Forest,IL
+Christopher Benton,12/07/15,27,M,white,Casper,WY
+Frederick Farmer,13/07/15,20,M,black,Stone Mountain,GA
+Matthew Ryan Graham,13/07/15,24,M,white,Dunsmuir,CA
+Rafael Suazo,13/07/15,23,M,hispanic,Lynn,MA
+Jason Davis,13/07/15,41,M,white,Los Angeles,CA
+Chacarion Avant,14/07/15,20,M,black,Mascotte,FL
+Charles Crandall,14/07/15,76,M,Other,Southington,OH
+Eugene Kailing,15/07/15,43,M,white,Marion,MI
+Anthonie Smith,16/07/15,25,M,black,Moreno Valley,CA
+Antonio Gonzalez,16/07/15,29,M,hispanic,Wauwatosa,WI
+Edward Foster III,16/07/15,35,M,black,Homestead,FL
+Patrick Stephen Pippin,16/07/15,30,M,white,Kansas City,KS
+Mohammad Youssef Abdulazeez,16/07/15,24,M,Other,Chattanooga,TN
+Saige Hack,16/07/15,23,M,native_american,Cheyenne,WY
+Pierre Gabriel Koellner,16/07/15,29,M,white,Opp,AL
+Samuel Smith,17/07/15,27,M,white,Seattle,WA
+Albert Joseph Davis,17/07/15,23,M,black,Orlando,FL
+Jackie Brand,17/07/15,50,M,white,Needles,CA
+Darrius Stewart,17/07/15,19,M,black,Memphis,TN
+Jose Roman Rodriguez,17/07/15,24,M,hispanic,Brownsville,TX
+David  Wheat Jr.,18/07/15,22,M,white,Fort Collins,CO
+Kevin Thomas Snyder,18/07/15,46,M,white,Phoenix,AZ
+Charles Edward Dewey,18/07/15,65,M,white,Colby,KS
+Samuel DuBose,19/07/15,43,M,black,Mt. Auburn,OH
+Joshua LeBoeuf,20/07/15,35,M,white,Winnie,TX
+Troy Francis,20/07/15,54,M,Other,Fremont,CA
+Darren Billy Wilson,21/07/15,47,M,white,White,GA
+Joseph Fuller,21/07/15,24,M,white,Oakland Park,FL
+Jerrod Tyre,21/07/15,35,M,white,Jesup,GA
+Francisco Benitez-Santiago,22/07/15,25,M,hispanic,Monroe,WI
+Andre Dontrell Williams,22/07/15,26,M,black,Oklahoma City,OK
+Devon Guisherd,22/07/15,27,M,black,Philadelphia,PA
+Dontae L. Martin,23/07/15,34,M,black,Dayton,OH
+Derek Wolfsteller,23/07/15,31,M,white,Plymouth,MN
+Brian Stortzum,23/07/15,32,M,white,Myrtle Beach,SC
+Robbie Lee Edison,23/07/15,47,M,white,Douglas,WY
+Tamala Satre,23/07/15,44,F,white,Meadow Vista,CA
+Seth Raines,24/07/15,44,M,white,Studio City,CA
+Lee Aaron Gerston,24/07/15,30,M,white,Pinnacle,NC
+Christopher Olmstead,25/07/15,60,M,white,New Orleans,LA
+Roger Braswell,25/07/15,50,M,white,Decatur,GA
+Bryan Keith  Day,25/07/15,36,M,black,Las Vegas,NV
+Earl Jackson,25/07/15,59,M,black,Micanopy,FL
+Khari Westly,26/07/15,33,M,black,Shreveport,LA
+Zachary Hammond,26/07/15,19,M,white,Seneca,SC
+Timothy Milliken,27/07/15,56,M,white,Irmo,SC
+Jean Paul Falgout,27/07/15,45,M,white,Houma,LA
+Samuel Forgy,27/07/15,22,M,white,Boulder,CO
+Timothy Johnson,28/07/15,41,M,Other,Manila,AR
+Michael Malone,29/07/15,34,M,hispanic,Las Cruces,NM
+Roger Darrin Barker,29/07/15,53,M,white,Logan,UT
+Mark Perkins,30/07/15,48,M,white,Gardnerville Ranchos,NV
+Ryan Daniel Vrenon,30/07/15,25,M,white,Dunsmuir,CA
+Philip Vallejo,30/07/15,30,M,hispanic,Fort Worth,TX
+Oscar Lotari Romero,30/07/15,47,M,hispanic,Whittier,CA
+Rafael Molina,31/07/15,33,M,hispanic,Albuquerque,NM
+Jeremy  Hatch,31/07/15,34,M,white,Roswell,NM
+David  Cook,01/08/15,52,M,Other,Nitro,WV
+Armando Serrano,01/08/15,29,M,hispanic,Tucson,AZ
+Virgil Reynolds,02/08/15,63,M,white,Houston,TX
+Antonio Clements,03/08/15,49,M,black,Oakland,CA
+Joshua Malave,03/08/15,18,M,white,Campbelltown,PA
+Franklin Short,03/08/15,71,M,white,Powhatan County,VA
+Shawn Ruble,03/08/15,35,M,white,Muncie,IN
+Daniel Robert Avila,04/08/15,55,M,hispanic,San Diego County,CA
+Darius D. Graves,04/08/15,31,M,black,Rantoul,IL
+Tyler Alexander Dattilo,05/08/15,18,M,white,Louisville,KY
+John Dieringer,05/08/15,51,M,white,Greenfield,WI
+Raymond Hodge,05/08/15,39,M,black,Maui,HI
+Keshawn Dominique Hargrove,05/08/15,20,M,black,Richmond,VA
+Vincente Montano,05/08/15,29,M,white,Antioch,TN
+Jason Galaviz,05/08/15,40,M,white,Tacoma,WA
+Gustavo Ponce-Galon,06/08/15,42,M,hispanic,Elsmere,KY
+Charles Bertram,06/08/15,22,M,black,El Paso,TX
+Christian Taylor,07/08/15,19,M,black,Arlington,TX
+Abel Correa,07/08/15,24,M,hispanic,Las Vegas,NV
+Aaron Marchese,07/08/15,30,M,white,Fresno,CA
+Mark Keckhafer,07/08/15,53,M,white,Superior,MT
+Tsombe Clark,07/08/15,25,M,black,Greenville,NC
+Derrick Lee Hunt,07/08/15,28,M,black,Long Beach,CA
+Roderick Burr,08/08/15,33,M,Other,Brookshire,TX
+Shamir Terrel Palmer,08/08/15,24,M,black,Summerville,SC
+Jeffrey Clyde Wilkes,08/08/15,59,M,white,Gastonia,NC
+Kevin McDaniel,08/08/15,46,M,white,Spokane,WA
+Andre Green,09/08/15,15,M,black,Indianapolis,IN
+Eric Tompkins,09/08/15,41,M,white,Ardmore,OK
+Robert Patrick Quinn,09/08/15,77,M,Other,Pittston,PA
+Edrian Rivera,09/08/15,22,M,hispanic,San Jose,CA
+Richard Tyler Young,10/08/15,24,M,white,Gilbert,AZ
+Casey George Alarcon,11/08/15,34,M,white,Sandpoint,ID
+Randall Lance Hughes,11/08/15,48,M,white,Waco,TX
+Richard Dean Shull Jr.,12/08/15,24,M,white,Odessa,TX
+Nathaniel Wilks,12/08/15,27,M,black,Oakland,CA
+Redel Jones,12/08/15,30,F,black,Los Angeles,CA
+Anthony Lorenzo Vallejo,12/08/15,27,M,hispanic,Hemet,CA
+Reginald Marshall,12/08/15,27,M,black,Toledo,OH
+William Smith,12/08/15,49,M,white,Hobbs,NM
+Garland Tyree,14/08/15,38,M,black,Staten Island,NY
+Hector Rene Sorriano Gonzalez,14/08/15,26,M,hispanic,Boerne,TX
+Asshams Pharoah Manley,14/08/15,30,M,black,District Heights,MD
+Christopher Anderson,14/08/15,53,M,white,Bolton,CT
+John Unsworth,15/08/15,43,M,white,Hanover,IN
+Allen Matthew Baker,15/08/15,23,M,black,Sunnyvale,CA
+Benjamin Peter Ashley,15/08/15,34,M,black,Inyokern,CA
+Jonathon  Pope,15/08/15,30,M,white,Carson City,NV
+Matthew Castillo,16/08/15,29,M,hispanic,San Jose,CA
+Steven B. Norton,16/08/15,47,M,white,Kerrville,TX
+Frederick Roy,17/08/15,35,M,black,Houston,TX
+Richard Jacquez,17/08/15,40,M,hispanic,San Jose,CA
+Mansur Ball-Bey,19/08/15,18,M,black,St. Louis,MO
+Deviere Ernel Ransom,19/08/15,24,M,black,Bloomfield Township,MI
+Jason Hale,19/08/15,29,M,white,Hunters,WA
+Wade Allen Baker,19/08/15,44,M,white,Canton,NC
+Tyler Gerken,20/08/15,19,M,white,Beverly,OH
+Jeffory Ray Tevis,20/08/15,50,M,white,Tuscaloosa,AL
+Raul Herrera,20/08/15,17,M,hispanic,Ontario,CA
+Timmy Walling,21/08/15,57,M,white,Grapeview,WA
+Charles S. Hall,21/08/15,30,M,white,North East,MD
+Alan Joseph Rushton,21/08/15,38,M,white,Wake Forest,NC
+Adam Schneider,22/08/15,31,M,white,Cohasset,MN
+Thaddeus Faison,22/08/15,39,M,black,Troy,NY
+Jason Lee Alderman,22/08/15,29,M,white,Bakersfield,CA
+Nicholas Garner,22/08/15,26,M,white,Wichita,KS
+Kenneth Henry Morgan,22/08/15,64,M,white,King George,VA
+Richard Francis Compo,23/08/15,36,M,white,Jacksonville,FL
+Christopher Ray Tompkins,23/08/15,36,M,white,Arab,AL
+Julian Hoffman,23/08/15,21,M,white,Brick Township,NJ
+Bobby Troledge Norris,23/08/15,53,M,black,Archdale,NC
+William Lee Snider,23/08/15,57,M,white,Las Vegas,NV
+Marvin Maestas,25/08/15,30,M,hispanic,Santa Fe,NM
+Curtis Smith,25/08/15,34,M,black,West Chester,PA
+Todd Tomlinson,25/08/15,53,M,white,Thonotosassa,FL
+Shane Rudolph,25/08/15,45,M,white,Phoenix,AZ
+Marvin Arroliga,25/08/15,22,M,hispanic,Miami,FL
+Steven Dodd,26/08/15,22,M,white,Hendersonville,TN
+Brent Pickard,26/08/15,46,M,white,Chattanooga,TN
+Kyle Lambrose,26/08/15,27,M,white,West Jordan,UT
+Bertrand Davis,27/08/15,42,M,black,Dallas,TX
+Yonas Alehegne,27/08/15,30,M,black,Oakland,CA
+Robert Hober,27/08/15,54,M,white,San Diego,CA
+Manuel Soriano,27/08/15,29,M,hispanic,Los Angeles,CA
+Gilbert Flores,28/08/15,41,M,hispanic,San Antonio,TX
+William Evans,28/08/15,28,M,white,Spanish Fork,UT
+Felix Kumi,28/08/15,61,M,black,Mount Vernon,NY
+Devin Brian Dial,28/08/15,23,M,white,Longview,TX
+James Marcus Brown,29/08/15,25,M,black,North Las Vegas,NV
+Roger Albrecht,29/08/15,,M,white,San Antonio,TX
+Rafael Cruz Jr,29/08/15,29,M,hispanic,Chicago,IL
+Shawn Hall,30/08/15,20,M,white,Cushing,OK
+David M.  Leon,30/08/15,40,M,hispanic,Tucson,AZ
+William Rippley,31/08/15,45,M,white,Loveland,CO
+Cedric Maurice Williams,01/09/15,33,M,black,Bluefield,WV
+Charles Robert Shaw,01/09/15,76,M,white,Twinsburg,OH
+Michael Todd Evans,01/09/15,47,M,white,Artesia,NM
+Arthur Bates,02/09/15,45,M,white,Prescott,AZ
+Freddy Centeno,03/09/15,40,M,hispanic,Fresno,CA
+Curtis James Meyer,04/09/15,37,M,white,Mitchell,SD
+Jose Ramon Damiani Jr,04/09/15,49,M,hispanic,French Lick,IN
+Richard Keith Kelley,04/09/15,27,M,white,Weitchpec,CA
+Sully Lanier,04/09/15,36,M,white,Springtown,TX
+Harrison Lambert,04/09/15,23,M,white,Merrimack,NH
+La\'vante Trevon Biggs,05/09/15,21,M,black,Durham,NC
+Luis Wenceslao,05/09/15,32,M,hispanic,Ontario,CA
+Angelo Delano Perry,05/09/15,35,M,black,Virginia Beach,VA
+India Kager,05/09/15,28,F,black,Virginia Beach,VA
+Carlos Yero,06/09/15,59,M,hispanic,Little Havana,FL
+Mohamed Ibrahim,06/09/15,28,M,black,Shreveport,LA
+William Verrett,06/09/15,45,M,white,Hobbs,NM
+Casimero Carlos Casillas,07/09/15,45,M,hispanic,Fresno,CA
+Tristan Vent,08/09/15,19,M,native_american,Fairbanks,AK
+Dustin Kuik,09/09/15,25,M,white,Ashwaubenon,WI
+Tyrone Holman,09/09/15,37,M,black,Kansas City,MO
+Vincent J. Perdue,09/09/15,33,M,native_american,Fairbanks,AK
+William Chau,09/09/15,59,M,asian,El Monte,CA
+Tian Ma,10/09/15,31,M,asian,Potsdam,NY
+Bruce Santino,10/09/15,35,M,Other,Fontana,CA
+Brandon Foy,10/09/15,29,M,black,Indianapolis,IN
+Austin Wilburly  Reid,10/09/15,32,M,white,Lodi,CA
+Eddie Tapia,10/09/15,41,M,hispanic,Downey,CA
+Robert T. Edwards,11/09/15,31,M,white,Chester,PA
+Phillip Pfleghardt,11/09/15,44,M,white,Broomfield,CO
+Derick Davis,12/09/15,23,M,white,Sylacauga,AL
+Jack Stevens Jr.,12/09/15,45,M,white,West Knox,TN
+Martin Francis Hammen,13/09/15,39,M,white,Wellman,IA
+Clifford Butler,13/09/15,67,M,black,McAlester,OK
+Jeffrey Eugene Brooks,13/09/15,29,M,white,Clute,TX
+Joseph Thompson Johnson-Shanks,14/09/15,25,M,black,Princeton,KY
+David Todd Powell,14/09/15,28,M,white,Barstow,CA
+Tyrone Bass,15/09/15,21,M,black,Chalmette,LA
+Florencio Chaidez,15/09/15,32,M,hispanic,Panorama City,CA
+Jorge  Suarez-Ruiz,15/09/15,51,M,hispanic,Miami,FL
+Carlos Wilhelm,15/09/15,39,M,hispanic,Los Angeles,CA
+Bobby R. Anderson,15/09/15,27,M,black,Alexandria,LA
+Rory Lynn Gunderman,16/09/15,31,M,white,Lead,SD
+Mark Gary,17/09/15,50,M,white,Beaverton,MI
+Lawrence Price,17/09/15,,M,white,Brodhead,KY
+Nicholas Alan Johnson,18/09/15,32,M,white,San Bernardino,CA
+Gregory Herrell,18/09/15,47,M,white,Dickson,TN
+Lucien Rolland,19/09/15,46,M,white,Slidell,LA
+Scott Beech,19/09/15,57,M,white,Washington County,AL
+Michael Thomas Pierce,20/09/15,23,M,white,Harrisonburg,VA
+Jerrald Wright,20/09/15,56,M,white,Shelbyville,IN
+Gerardo Ramirez,21/09/15,24,M,hispanic,Dallas,TX
+William Spaits,21/09/15,27,M,white,Sand City,CA
+Tina Money,21/09/15,23,F,white,Sand City,CA
+Steven McKenny,21/09/15,21,M,white,Paris,TX
+Timothy Wagner,21/09/15,26,M,white,Barberville,FL
+Dominic Fuller,21/09/15,34,M,hispanic,Auburndale,FL
+Dante Osborne,22/09/15,32,M,black,Oakland,CA
+Joel Dixon Smith,22/09/15,33,M,white,Niceville,FL
+Tim Kyle Torngren,22/09/15,55,M,white,Happy Valley,CA
+Donaven Kyle Anderson,22/09/15,26,M,Other,North Las Vegas,NV
+Robert Berger,23/09/15,48,M,Other,Salt Lake City,UT
+Joseph Khammash,23/09/15,35,M,white,McKinney,TX
+Keith Harrison McLeod,23/09/15,19,M,black,Reisterstown,MD
+Kenneth Ray Pinter,23/09/15,45,M,white,Grayson County,VA
+Jeremy McDole,23/09/15,28,M,black,Wilmington,DE
+Ernesto Medina Lopez,24/09/15,42,M,hispanic,Miami,FL
+Patrick O\'Grady,24/09/15,17,M,white,Fountain,CO
+Philip Quinn,24/09/15,30,M,Other,St. Paul,MN
+William Lemmon,25/09/15,21,M,white,Akron,OH
+James Anderson,25/09/15,33,M,black,Chicago,IL
+Jeffrey Blood,25/09/15,45,M,white,Wilhoit,AZ
+Anthony McKinney,26/09/15,46,M,black,Baton Rouge,LA
+Alejandro Lerma,26/09/15,23,M,hispanic,Lovington,NM
+Norma Angelica Guzman,27/09/15,37,F,hispanic,Los Angeles,CA
+Christopher Shell,27/09/15,43,M,white,Rossville,GA
+Victor Oswaldo Coronado-Martinez,27/09/15,40,M,hispanic,Ponder,TX
+Junior Prosper,28/09/15,31,M,black,Miami,FL
+Alberto Hernandez,28/09/15,59,M,hispanic,San Ysidro,CA
+Patrick Stephen Lundstrom,29/09/15,46,M,native_american,Rapid City,SD
+Robert  Christen,29/09/15,37,M,white,Mora,MN
+Brandon Lamar Johnson,30/09/15,28,M,black,Beckley,WV
+David M. Diaz,02/10/15,28,M,hispanic,Sierra Vista,AZ
+Christian Pena,02/10/15,26,M,hispanic,Rialto,CA
+Phyllis Ilene Jepsen,02/10/15,55,F,white,Aloha,OR
+Matthew Dobbins,02/10/15,29,M,white,Amarillo,TX
+James Joseph Byrd,04/10/15,45,M,Other,Van Nuys,CA
+Eric Edgell,04/10/15,27,M,white,Muscle Shoals,AL
+Jeffery McCallum,04/10/15,31,M,black,Chicago,IL
+James  Dunaway,05/10/15,51,M,white,Hurst,TX
+Rodney Jencsik,05/10/15,50,M,white,Woodbridge,NJ
+Omar Ali,05/10/15,27,M,Other,Akron,OH
+Charles A. Pettit,05/10/15,18,M,black,Midwest City,OK
+Donald Miller II,06/10/15,39,M,Other,Monterey,CA
+Amado Lago,07/10/15,46,M,hispanic,West Palm Beach,FL
+Gary Carmona Boitano,09/10/15,19,M,black,Columbia,MD
+Margaret Wagner,09/10/15,62,F,Other,Aguanga,CA
+Christopher Whitmarsh,10/10/15,49,M,white,Beverly,MA
+Richard Love,10/10/15,31,M,white,Old Saybrook,CT
+William Combs,10/10/15,38,M,white,Pinion Hills,CA
+Travis Quay,10/10/15,40,M,white,Cato Township,MI
+Anthony Aguilar,10/10/15,35,M,hispanic,Lisle,IL
+Joe Pasquez Ortiz,11/10/15,34,M,hispanic,San Bernardino,CA
+Kevin Lau,11/10/15,44,M,asian,Lakes Charles,LA
+Bernard Brandon Powers,11/10/15,23,M,black,Taylors,SC
+Robert Humberto Medellin,11/10/15,43,M,hispanic,West Odessa,TX
+Jason Day,12/10/15,,M,black,Lawton,OK
+Rudolph Smith,12/10/15,31,M,white,Brookhaven,MS
+Brent Brannon,14/10/15,27,M,white,Cartersville,GA
+Michelle Marie Burg,14/10/15,46,F,white,Naples,FL
+Samuel Villarreal,14/10/15,18,M,hispanic,Indio,CA
+Michael Donald Clark,14/10/15,59,M,Other,Seaside,CA
+Leslie Portis,14/10/15,57,M,black,Monroeville,AL
+Jorge Santiago Tapia,15/10/15,15,M,hispanic,Miami,FL
+Kaleb Alexander,15/10/15,25,M,black,Columbus,OH
+Linda Lee Lush,15/10/15,50,F,white,Las Vegas,NV
+Michael J. Brennan,15/10/15,31,M,white,Parma,OH
+Robert Burgess,15/10/15,35,M,white,Kirkland,WA
+Herbert Benitez,15/10/15,27,M,hispanic,San Francisco,CA
+Martin  Ryans Jr.,15/10/15,20,M,black,Houston,TX
+Johnny Angel Rangel,16/10/15,27,M,hispanic,Valinda,CA
+Jason Foreman,16/10/15,45,M,Other,Barrow County,GA
+Ricky Javenta Ball,16/10/15,33,M,black,Columbus,MS
+Gino Paredes,17/10/15,22,M,hispanic,Modesto,CA
+Dequan Williams,17/10/15,28,M,black,York,PA
+Corey Jones,18/10/15,31,M,black,Palm Beach Gardens,FL
+Krikor Ekizian,18/10/15,28,M,white,Fresno,CA
+Dion Lamont Ramirez,19/10/15,53,M,black,Los Angeles,CA
+Roger D.  Hall,20/10/15,30,M,white,Louisville,KY
+Lamontez Jones,20/10/15,39,M,black,San Diego,CA
+Joel Lopes,20/10/15,40,M,hispanic,Truth or Consequences,NM
+Darien Greenwood,20/10/15,30,M,white,Mandeville,LA
+Jonathan Tyler Gossman,20/10/15,21,M,white,Cedar Rapids,IA
+Miguel Angel Marin Galena,21/10/15,35,M,hispanic,Calexico,CA
+Ryan Christopher Rodriguez,21/10/15,21,M,hispanic,West Goshen,CA
+Timothy Arnold,21/10/15,47,M,white,Kentwood,MI
+Lawrence Green,22/10/15,38,M,black,Shreveport,LA
+Adriene Jamarr Ludd,22/10/15,36,M,black,Carmichael,CA
+Stephen H. Brock,22/10/15,53,M,white,Pine Top,KY
+John Tozzi,24/10/15,,M,Other,New Paltz,NY
+Juan Ulloa,24/10/15,34,M,hispanic,Highgrove,CA
+Rolly Thomas,24/10/15,34,M,black,Cape Coral,FL
+Dominic Hutchinson,24/10/15,30,M,black,Cathedral City,CA
+Arthur West,24/10/15,28,M,white,Zanesville,OH
+Darren Myron Fude,24/10/15,47,M,white,Paddock Lake,WI
+Jon Ployhar,24/10/15,49,M,white,Kenai Peninsula,AK
+John Harley Turner,25/10/15,36,M,white,Talking Rock,GA
+Kevin Brunson,26/10/15,45,M,black,Frederick,MD
+Marquesha McMillan,26/10/15,21,F,black,Washington,DC
+Kobvey Igbuhay,26/10/15,18,M,Other,Tampa,FL
+Tyrie Cuyler,27/10/15,25,M,black,Savannah,GA
+Anthony Ashford,28/10/15,29,M,black,Point Loma,CA
+Ricky Keith Keeton,28/10/15,57,M,white,Smithville,MS
+Jerry Michael Graham Jr.,28/10/15,34,M,black,Jacksonville,FL
+Jasper Levi Adams,28/10/15,35,M,white,Salem,OR
+Deaunte Lamar Bell,29/10/15,,M,black,Columbus,OH
+Allen Quintez Swader,29/10/15,18,M,white,Hohenwald,TN
+Floyd Ray Cook,30/10/15,62,M,white,Burkesville,KY
+Mario Martinez,30/10/15,29,M,hispanic,Mesquite,TX
+Tony Berry,30/10/15,25,M,black,Houston,TX
+Daniel Nole,30/10/15,30,M,white,Norwood,OK
+Noah Harpham,31/10/15,33,M,white,Colorado Springs,CO
+Bennie Lee Tignor,31/10/15,56,M,black,Opelika,AL
+Luverne Roy Christensen,01/11/15,49,M,white,Hutchinson,MN
+Killian O\'Quinn,01/11/15,20,M,white,Eureka,CA
+Jack Yantis,01/11/15,62,M,white,Council,ID
+James Covington,02/11/15,62,M,black,Washington,DC
+Jeremy Mardis,03/11/15,6,M,white,Marksville,LA
+Joseph Tyndall,04/11/15,30,M,white,Springfield,MO
+John Allen,04/11/15,57,M,black,Houston,TX
+Faisal Mohammad,04/11/15,18,M,Other,Merced,CA
+Timothy Gene Smith,04/11/15,47,M,white,Pacific Beach,CA
+David  Romanoski,05/11/15,48,M,white,Morgantown,WV
+James Bigley,05/11/15,20,M,white,Hominy,OK
+Jacob Hohman,05/11/15,30,M,white,Lakeshire,MO
+Laura Lemieux,05/11/15,36,F,white,Goose Creek,SC
+Michael  Johnson,06/11/15,51,M,white,Portland,OR
+James Francis Smyth,06/11/15,55,M,white,Las Vegas,NV
+Kim Lee Long,06/11/15,48,M,white,Wadesboro,NC
+Delvin Simmons,09/11/15,20,M,black,Spartanburg,SC
+Cesar Cuellar,09/11/15,25,M,hispanic,North Laredo,TX
+Dale Maverick Hudson,09/11/15,26,M,white,Braxton County,WV
+Leonel Acevedo,09/11/15,45,M,hispanic,San Jose,CA
+Miguel Cano,09/11/15,35,M,hispanic,Los Angeles,CA
+Dana Bruce Ott,10/11/15,63,M,white,Colorado Springs,CO
+Eddie Gabriel Sanchez,10/11/15,34,M,hispanic,Chico,CA
+Jason Leanard Mesaros,10/11/15,36,M,hispanic,Brighton,CO
+Andrew Blake,10/11/15,22,M,white,Dillon,MT
+Joseph Jaramillo,11/11/15,31,M,hispanic,Albuquerque,NM
+Javier Lopez Garcia,11/11/15,25,M,hispanic,San Francisco,CA
+Brian Gavin,11/11/15,57,M,white,Aiken,SC
+Ryan Quinn Martin,11/11/15,32,M,black,Baltimore,MD
+Moises Nero,12/11/15,42,M,black,Sunnyvale,CA
+Michael Joseph Bartkiewicz,13/11/15,52,M,white,Gibson County,TN
+Ernesto Gamino,13/11/15,25,M,hispanic,Jurupa Valley,CA
+Matthew Coleman,13/11/15,25,M,white,Eden,GA
+Ramon Salazar,14/11/15,31,M,hispanic,Jurupa Valley,CA
+Richard Perkins,15/11/15,39,M,black,Oakland,CA
+John David Livingston,15/11/15,32,M,white,Spring Lake,NC
+Shane Whitehead,15/11/15,16,M,black,Germantown,PA
+Jamar Clark,15/11/15,24,M,black,Minneapolis,MN
+Cameron Davis Long,16/11/15,28,M,white,Leon County,TX
+Brent Noblitt,16/11/15,25,M,white,Whitfield County,GA
+Michael Tindall,17/11/15,41,M,white,Weatherford,TX
+Yohans Leon,17/11/15,28,M,black,Miami,FL
+Demetrius Bryant,17/11/15,21,M,black,Cayce,SC
+Jeray Chatham,17/11/15,30,M,black,Weatherford,TX
+Derry Touchstone,17/11/15,58,M,white,Arlington,GA
+Francis Hartnett,17/11/15,47,M,white,Little Egg Harbor,NJ
+Cornelius Brown,18/11/15,25,M,black,Opa-Locka,FL
+Marcus Meridy,18/11/15,44,M,black,Berrien County,MI
+Randy Allen Smith,19/11/15,34,M,black,Manatee,FL
+Steve Dormil,19/11/15,27,M,black,Fort Pierce,FL
+Darick Napper,19/11/15,34,M,black,Washington,DC
+William Tarrant,20/11/15,39,M,white,Paulding County,GA
+Nathaniel Harris Pickett,20/11/15,29,M,black,Barstow,CA
+Chris Nichols,21/11/15,24,M,white,Colbert,OK
+James Daniel Hall,22/11/15,47,M,white,Fontana,CA
+Matthew Grows,22/11/15,45,M,white,Reno,NV
+Miguel Angel Martinez,22/11/15,28,M,hispanic,Denver,CO
+Henry Reyna,23/11/15,49,M,hispanic,Corpus Christi,TX
+Barry Kirk,23/11/15,50,M,white,Columbus,OH
+Michael Kirvelay,24/11/15,45,M,white,Columbia Heights,MN
+Thomas Joseph Mceniry,24/11/15,32,M,white,Las Vegas,NV
+Freddy Baez,24/11/15,24,M,black,Camden,NJ
+Magnum Edgar Phillips,25/11/15,23,M,white,Springfield,MO
+Douglas R. Slade,25/11/15,52,M,white,Eagar,AZ
+Somer Speer,25/11/15,37,F,white,Ozark,MO
+Andrew Thomas,26/11/15,26,M,white,Chico,CA
+Rick Gullickson,27/11/15,58,M,white,Lampe,MO
+Kevin Close,28/11/15,50,M,white,Seagoville,TX
+Justin D. McHenry,29/11/15,22,M,white,Celina,OH
+Lionel Kerns,29/11/15,53,M,white,Maysville,MO
+Ralph Aguilar,29/11/15,69,M,hispanic,Sun City,AZ
+Hugo Fernando Celio,29/11/15,23,M,hispanic,Bakersfield,CA
+Zachary Grigsby,29/11/15,29,M,white,Lincoln,NE
+Tuan Hoang,30/11/15,25,M,asian,Aurora,CO
+Darius Smith,30/11/15,18,M,black,Atlanta,GA
+Fernando Sauceda,30/11/15,31,M,hispanic,Wink,TX
+Joshua  Jozefowicz,01/12/15,23,M,white,Bangor,ME
+John Anthony Gonzalez,01/12/15,18,M,hispanic,Norwalk,CA
+Phillip Munoz,02/12/15,35,M,hispanic,Denver,CO
+Tashfeen Malik,02/12/15,27,F,Other,San Bernardino,CA
+Syed Farook,02/12/15,28,M,Other,San Bernardino,CA
+Mario Woods,02/12/15,26,M,black,San Francisco,CA
+Allen Pacheco,02/12/15,32,M,hispanic,San Antonio,TX
+Florencio Lucero,02/12/15,36,M,hispanic,Deming,NM
+Neil Scott Stretesky,03/12/15,66,M,white,Big Springs,NE
+Ivan Krstic,04/12/15,47,M,white,Mesa,AZ
+Raymone M. Davis,04/12/15,21,M,black,Mount Washington,PA
+Colten Price Marcellus,05/12/15,24,M,white,Irving,TX
+David  Winesett,05/12/15,51,M,white,Miami,FL
+Michael L. Funk,05/12/15,60,M,white,Neenah,WI
+Sheilah Huck,05/12/15,61,F,white,St. Louis,MO
+Juan Perez,05/12/15,38,M,hispanic,Indio,CA
+Raymond Azevedo,06/12/15,35,M,white,Seattle,WA
+Carlumandarlo Zaramo,06/12/15,46,M,black,Richmond Heights,OH
+John Alan Britton,06/12/15,48,M,white,Laramie,WY
+Miguel Espinal,08/12/15,36,M,black,Yonkers,NY
+Derek Stokes,08/12/15,33,M,black,Cleveland,OH
+Christopher Higdon,09/12/15,66,M,white,Leitchfield,KY
+Sammy Monroe Echols,09/12/15,51,M,Other,Pryor,OK
+Jason Bryant,10/12/15,34,M,white,Indianapolis,IN
+Charles Edward Rosemond,10/12/15,55,M,black,Taylors,SC
+Thomas Arthur Gendreau,10/12/15,54,M,white,Marina,CA
+TK TK,10/12/15,,M,Other,Hemet,CA
+Steven Wickert,11/12/15,36,M,white,Tucson,AZ
+Christopher Goodlow,12/12/15,25,M,black,Indianapolis,IN
+Javario Shante Eagle,12/12/15,24,M,black,Chattanooga,TN
+Nicholas Robertson,12/12/15,28,M,black,Lynwood,CA
+Jonathan Wardlow,12/12/15,36,M,white,Healdton,OK
+Andrew Jospeh Todd,12/12/15,20,M,white,East Stroudsburg,PA
+Roy Carreon,12/12/15,49,M,hispanic,San Bernardino,CA
+Efrain Villanueva,12/12/15,,M,Other,Aurora,CO
+Shirley  Weis,13/12/15,51,F,white,Arlington,TX
+Ryan McMillan,13/12/15,21,M,white,Denton,TX
+Nephi  Leiataua,13/12/15,30,M,Other,Thurston County,WA
+Enrique Gonzalez,13/12/15,32,M,hispanic,Mountain View,CO
+Calvin McKinnis,14/12/15,33,M,black,New Orleans,LA
+Jeffrey Gene Evans,14/12/15,52,M,white,Middle River,MD
+Michael  Thomason,14/12/15,56,M,white,Humboldt,TN
+Brenda Dean Kimberling,14/12/15,48,F,white,Las Vegas,NV
+Mharloun Verdejo  Saycon,14/12/15,39,M,asian,Long Beach,CA
+Hector Alvarez,14/12/15,19,M,hispanic,Gilroy,CA
+Roberto Sanchez,14/12/15,45,M,hispanic,Las Vegas,NV
+Mark Toney,14/12/15,33,M,white,Mount Hope,WV
+Ronnie Dubose Carter,15/12/15,51,M,black,Dallas,NC
+Bryant Neil Duncan,16/12/15,,M,white,Camarillo,CA
+Douglas Yon,17/12/15,25,M,white,Kent,OH
+Christopher Fletcher,17/12/15,24,M,white,Modesto,CA
+Erica Lauro,18/12/15,22,F,white,Northwood,OH
+Amos Frerichs,18/12/15,32,M,white,Knoxville,TN
+Robert L. Martinez,18/12/15,58,M,hispanic,Taos,NM
+Trayvon Scruggs,19/12/15,24,M,black,Concord,VA
+Ruben Jose Herrera,19/12/15,26,M,hispanic,Los Angeles,CA
+Leroy Browning,20/12/15,30,M,black,Palmdale,CA
+Mark  Ramirez,20/12/15,31,M,hispanic,Amarillo,TX
+Guadalupe Quiroz,21/12/15,34,M,hispanic,Hemet,CA
+Bobby Daniels,21/12/15,48,M,black,Douglasville,GA
+Michael Noel,21/12/15,,M,black,Breaux Bridge,LA
+Derek DeGroat,21/12/15,21,M,white,Canaan Township,PA
+Robert L. Teter,21/12/15,39,M,white,Deltona,FL
+Chan Leith,21/12/15,25,M,black,Aurora,CO
+Brandon Barsnick,21/12/15,30,M,white,Smartsville,CA
+Charles Reynolds,22/12/15,61,M,Other,Ludlow,KY
+Kenneth Stephens,22/12/15,56,M,white,Burlington,VT
+Michael Hilber,22/12/15,29,M,white,Brooksville,FL
+Jose  Rodriguez,22/12/15,19,M,hispanic,Albuquerque,NM
+Kevin Matthews,23/12/15,35,M,black,Dearborn,MI
+Schuylar Gunning,24/12/15,36,M,white,Winnsboro,LA
+Gregory Sanders,24/12/15,54,M,Other,Pride,LA
+Terrozza Tyree Griffin,24/12/15,24,M,black,Lansing,MI
+Omar Ventura,24/12/15,23,M,hispanic,Porterville,CA
+Daquan Antonio Westbrook,24/12/15,18,M,black,Charlotte,NC
+William David Raff,25/12/15,31,M,white,Palo Alto,CA
+Lonnie Niesen,26/12/15,41,M,white,Phoenix,AZ
+Bettie Jones,26/12/15,55,F,black,Chicago,IL
+Quintonio LeGrier,26/12/15,19,M,black,Chicago,IL
+Gilbert Heredia,26/12/15,38,M,hispanic,Homedale,ID
+Michael Parker,27/12/15,36,M,white,Lucedale,MS
+Sean Mould,27/12/15,34,M,white,Tempe,AZ
+Gayneaux Paul Trahan,27/12/15,52,M,white,Franklin,LA
+Corey Jason Achstein,28/12/15,28,M,white,Suffolk,VA
+Siolosega Velega-Nuufolau,29/12/15,50,F,Other,Santa Nella,CA
+Tien Hua,29/12/15,,M,asian,Rosemead,CA
+Fred Perez,30/12/15,55,M,hispanic,Fresno,CA
+John Randell Veach,30/12/15,39,M,Other,Rawlins,WY
+Keith Childress,31/12/15,23,M,black,Las Vegas,NV
+Joshua Sisson,01/01/16,30,M,white,San Diego,CA
+Sean O\'Brien,02/01/16,37,M,white,Livingston,MT
+Lance Light,02/01/16,54,M,white,Maryneal,TX
+Lonnie Haskell Powers,02/01/16,37,M,white,Sioux Falls,SD
+Germonta Wallace,03/01/16,30,M,black,Charlotte,NC
+Eric John Senegal,04/01/16,27,M,black,Ragley,LA
+Rodney Turner,04/01/16,22,M,black,Oklahoma City,OK
+Joel Anthony Nelson,05/01/16,29,M,white,Olympia,WA
+James K. Maher,05/01/16,39,M,white,Johnson City,TN
+Carlton Antonio Murphy,05/01/16,33,M,black,Charlotte,NC
+Stephen Bukwich,05/01/16,52,M,white,Redding,CA
+Albert Thompson,05/01/16,28,M,hispanic,Ceres,CA
+David Zollo,05/01/16,54,M,white,Upper Darby,PA
+Charles Hollstein,06/01/16,38,M,white,Zion,IL
+Alan Huberth Franco-Armenta,06/01/16,32,M,hispanic,Carrizozo,NM
+Kenneth Clay,06/01/16,34,M,white,Daviess County,KY
+Eric C. Olsen,08/01/16,26,M,white,Geneva,WI
+Andrew Earl Abernathy,08/01/16,50,M,white,Acworth,GA
+David Jay Kent,10/01/16,37,M,white,Kelso,WA
+Christine A. Lucas,10/01/16,45,F,white,Rising Sun,MD
+Alan Paul Bartley,11/01/16,56,M,white,San Fernando,CA
+Robert Tenbrink,11/01/16,45,M,white,Cincinnati,OH
+Ramone Lonergan,11/01/16,32,M,white,Denver,CO
+Ciara Meyer,11/01/16,12,F,white,Penn Township,PA
+Herman Bean,12/01/16,49,M,native_american,Spenard,AK
+Keith Richardson,12/01/16,58,M,white,Norfolk,VA
+Brandon Bearden,13/01/16,29,M,white,Sevierville,TN
+Timothy Meehan,13/01/16,60,M,white,Cle Elum,WA
+Willie Holderfield,14/01/16,40,M,white,Hurst,IL
+Miguel Hernandez,14/01/16,39,M,hispanic,Santa Clarita,CA
+William Keith Waldron,15/01/16,26,M,white,Elkins,WV
+Rakeem Bentley,15/01/16,24,M,black,Southfield,MI
+Alfred Longoria,16/01/16,34,M,hispanic,Hollywood Hills,CA
+Ashton Lane Morris,16/01/16,27,M,white,San Antonio,TX
+Adam Karjalainen,16/01/16,44,M,white,Beaverton,OR
+Kelsey Rose Hauser,16/01/16,25,F,white,El Cajon,CA
+Clarence Layfield,16/01/16,55,M,white,Petroleum,WV
+Henry Bennett,16/01/16,19,M,black,Belle Glade,FL
+Crayton West,17/01/16,52,M,black,St. Louis,MO
+Efrain Herrera,17/01/16,24,M,hispanic,North Hills,CA
+Joshua Tate Fielding,17/01/16,38,M,white,Rainbow City,AL
+Corey Lee Henderson,17/01/16,31,M,white,Salt Lake City,UT
+Daniel Shaver,17/01/16,26,M,white,Mesa,AZ
+Jordan Szymanski,18/01/16,33,M,white,Tucson,AZ
+Eric Provost,18/01/16,28,M,white,Orlando,FL
+Timothy Caruthers,18/01/16,27,M,white,Medford,OR
+Levi Gene Wilson,18/01/16,39,M,white,Phoenix,AZ
+Vasilios Alexander Katsouras,18/01/16,29,M,white,Union City,CA
+Gary Wayne Jones,19/01/16,36,M,white,Dallas,TX
+Samuel Grady,19/01/16,55,M,white,Statesville,NC
+Jim Redmond,19/01/16,28,M,white,Valdosta,GA
+Timothy Albert,20/01/16,40,M,black,Port Barre,LA
+Randy Joe Sanders,20/01/16,33,M,white,Meridianville,AL
+Michael Clyde Lynch,20/01/16,37,M,white,Kerrville,TX
+Cedric Norris,21/01/16,39,M,black,Eufaula,OK
+Michael Lamar Robinson,23/01/16,43,M,white,Clanton,AL
+Sergio Alvarado-Morales,25/01/16,38,M,hispanic,Reno,NV
+Robert ""LaVoy"" Finicum,26/01/16,55,M,white,Burns,OR
+Scott Scanlon,27/01/16,52,M,white,Mountain Pine,AR
+Johnathan Bratcher,27/01/16,32,M,black,Memphis,TN
+Herman Flores,27/01/16,31,M,hispanic,Santa Fe,NM
+John Wesley Smith,27/01/16,27,M,white,Latta,SC
+Thongsavanh Vandarack,27/01/16,40,M,asian,Lenoir City,TN
+Janet Wilson,27/01/16,31,F,black,Dearborn,MI
+Nathan Lee Bailey,27/01/16,30,M,white,Mansfield,TX
+Israel Vladimir Rodriguez,27/01/16,26,M,hispanic,Cobb County,GA
+Jacqueline D. Salyers,28/01/16,32,F,native_american,Tacoma,WA
+William A. Adams,28/01/16,33,M,white,Omaha,NE
+Christopher Kalonji,28/01/16,19,M,black,Clackamas County,OR
+Randolph McClain,29/01/16,33,M,black,Lynn,MA
+Christopher Michael Dew,29/01/16,29,M,black,Irving,TX
+Angela Hiatt,29/01/16,41,F,white,Phenix City,AL
+Charles M. Smith,30/01/16,29,M,black,Chicago,IL
+Philip B. Salazar,30/01/16,38,M,hispanic,Fort Collins,CO
+Jose Alegre,30/01/16,64,M,hispanic,Rossville,GA
+Jeremy J. Sinclair,30/01/16,42,M,white,Sugar Creek,MO
+Joshua Shane Bispo,31/01/16,42,M,white,Bakersfield,CA
+Bruce Kelley,31/01/16,37,M,black,Wilkinsburg,PA
+Juan A. Ruiz,31/01/16,46,M,hispanic,Immokalee,FL
+Michael Brown,31/01/16,25,M,white,Saginaw,TX
+Jeffry Graves,31/01/16,62,M,Other,Newark,CA
+Peter John,01/02/16,36,M,black,Washington,DC
+Edgar Rene Alvarado,01/02/16,21,M,hispanic,Albuquerque,NM
+Justin Prescott,02/02/16,30,M,white,Rancho Cordova,CA
+John Henry Neuman,03/02/16,53,M,white,Schulter,OK
+Cristiaan Oliver Dubrino,03/02/16,31,M,hispanic,Ocala,FL
+Raymond Gassman,03/02/16,22,M,native_american,Rosebud,SD
+Kayden Clarke,04/02/16,24,M,white,Mesa,AZ
+Antronie Scott,04/02/16,36,M,black,San Antonio,TX
+Scott Harless,04/02/16,47,M,white,Kansas City,MO
+Thomas Hirko,04/02/16,54,M,white,Perry Township,OH
+Hector Leroy,04/02/16,43,M,hispanic,El Paso,TX
+Ronald Barawis,05/02/16,38,M,Other,Hilo,HI
+Blake Edward Fitzgerald,05/02/16,30,M,white,Milton,FL
+Vinson Ray Strickland,05/02/16,51,M,white,Union Grove,NC
+Phillip Ferry,05/02/16,55,M,white,Seaside,OR
+Jose Mendez,06/02/16,16,M,hispanic,Los Angeles,CA
+Marese V. Collins,07/02/16,23,M,black,Columbus,OH
+Phillip Luchsinger,07/02/16,36,M,white,Austin,AR
+Michael Laniado,07/02/16,27,M,Other,Manchester,NJ
+Shalamar Longer,08/02/16,33,M,black,Chester,PA
+David Joseph,08/02/16,17,M,black,Austin,TX
+Eric Harris,08/02/16,22,M,black,New Orleans,LA
+Gustavo Najera,09/02/16,22,M,hispanic,Anaheim,CA
+Scottie Yanagawa,09/02/16,29,M,Other,Hilo,HI
+Timothy Vessels,10/02/16,41,M,white,Louisville,KY
+David Brian Evans,10/02/16,67,M,white,Abingdon,MD
+Vincent Nageak,10/02/16,36,M,native_american,Barrow,AK
+John Birkeland,10/02/16,52,M,white,Roseville,MN
+Anthony Bertoni,10/02/16,56,M,Other,Henderson County,TX
+Alijah Jackson,11/02/16,35,M,white,Maiden,NC
+Matthew Quinn,11/02/16,45,M,white,Lancaster,CA
+Mohamed Barry,11/02/16,30,M,black,Columbus,OH
+Peter Fanfan,12/02/16,29,M,black,Boston,MA
+David Glen Watson,12/02/16,53,M,white,Fort Worth,TX
+Sahlah Ridgeway,12/02/16,32,F,black,Syracuse,NY
+Calvin Smith,13/02/16,22,M,black,Baton Rouge,LA
+Ali Eisa Abdalla Yahia,13/02/16,29,M,black,Urbandale,IA
+Calin Roquemore,13/02/16,24,M,black,Beckville,TX
+Dyzhawn L. Perkins,13/02/16,19,M,black,Arvonia,VA
+Rammy Jaradat,14/02/16,26,M,white,Van Nuys,CA
+Marc Stoddart,14/02/16,50,M,white,Bradenton,FL
+Eduardo Rodriguez,14/02/16,29,M,hispanic,Los Angeles,CA
+Guadalupe Sauceda,15/02/16,52,M,hispanic,Jal,NM
+Brandon Lee Witt,15/02/16,39,M,white,Yorba Linda,CA
+Christopher Andrews,16/02/16,51,M,white,Fairfield,CT
+Destry Meikle,16/02/16,48,M,white,Republic,MO
+Shawn Henry Allen Dickens,16/02/16,30,M,white,Mena,AR
+Paul Gaston,17/02/16,37,M,black,Cincinnati,OH
+Joseph Noel,18/02/16,25,M,white,Commerce,GA
+Jose Quintanilla,18/02/16,30,M,hispanic,Santa Ana,CA
+Oscar Reyes,18/02/16,35,M,hispanic,Santa Ana,CA
+Ronnie Padron,18/02/16,32,M,hispanic,Reno,TX
+Justin Patrick Moses,19/02/16,35,M,white,Ogden,UT
+Curtis James Dugger,19/02/16,31,M,white,Elizabethton,TN
+Danny Rendon,20/02/16,30,M,hispanic,Anaheim,CA
+Edgar Camacho-Alvarado,20/02/16,23,M,hispanic,Albuquerque,NM
+Marcos Perea,20/02/16,41,M,black,Lakewood,WA
+Charles Lee Lambert,20/02/16,45,M,white,Iuka,MS
+Che Taylor,21/02/16,46,M,black,Seattle,WA
+Sherrisa Homer,21/02/16,36,F,native_american,Phoenix,AZ
+Kisha Michael,21/02/16,31,F,black,Inglewood,CA
+Marquintan Sandlin,21/02/16,32,M,black,Inglewood,CA
+Patricia Kruger,21/02/16,38,F,native_american,Houston,AK
+Gerardino Cayetano Gonzalez,22/02/16,33,M,hispanic,Denver,CO
+Jamie Clark Long,22/02/16,45,M,white,Bakersfield,CA
+David Michael Green,22/02/16,38,M,white,Mission,TX
+Rouven Loch,22/02/16,22,M,white,Fairborn,OH
+Travis Stevenson,23/02/16,48,M,black,Baton Rouge,LA
+Angel Alan Gleason,23/02/16,36,M,hispanic,Ripon,CA
+Baltazar Ramos,23/02/16,39,M,hispanic,Houston,TX
+Alex Buckner,23/02/16,26,M,white,Phoenix,AZ
+Robert Keil,24/02/16,16,M,white,Blue Springs,MO
+Martin Wirth,24/02/16,58,M,white,Bailey,CO
+Victor Rivera,24/02/16,27,M,hispanic,Phoenix,AZ
+Francisco Garcia,24/02/16,26,M,hispanic,Cerritos,CA
+Christopher J. Davis,24/02/16,21,M,black,East Troy,WI
+Luke Miller,25/02/16,37,M,white,Evans,CO
+Greg Gunn,25/02/16,56,M,black,Montgomery,AL
+Tristan Conti,25/02/16,19,M,white,Silver Springs,NV
+Cedric Ford,25/02/16,38,M,black,Hesston,KS
+Kionte Desean Spencer,26/02/16,18,M,black,Roanoke,VA
+Abraham Mitchell Fryer,26/02/16,35,M,white,Rapid Valley,SD
+Fernando Hernandez,27/02/16,23,M,hispanic,San Antonio,TX
+Nathan Grissom,28/02/16,41,M,white,Ashville,AL
+Earl Hicks,28/02/16,44,M,white,Rapid City,SD
+Akiel Denkins,29/02/16,24,M,black,Raleigh,NC
+Dimitri Corcino,01/03/16,39,M,hispanic,Palm Bay,FL
+Jorge Brian Gonzalez,01/03/16,22,M,hispanic,Euless,TX
+Mickey Dewayne Sweatt,01/03/16,37,M,white,Gautier,MS
+Travis Boyd Bradley,02/03/16,36,M,white,Bel Air,MD
+Daniel Burkhardt,02/03/16,41,M,white,Johnstown,PA
+Sergio Ochoa,03/03/16,27,M,hispanic,Gilbert,AZ
+John Alan Chamberlain,04/03/16,66,M,Other,Sims,AR
+Brandon Stanley,04/03/16,30,M,white,East Berstadt,KY
+Darrell Bosell,05/03/16,34,M,white,Cheektowaga,NY
+Herbert Ballance,05/03/16,22,M,white,Beaumont,TX
+Mark Minnick,06/03/16,51,M,white,Azle,TX
+James Scott,06/03/16,42,M,white,Bismarck,ND
+Osvaldo Torres,06/03/16,41,M,hispanic,South Gate,CA
+Philip Vitullo,07/03/16,49,M,white,Rochester,NY
+Bryon Rosas,07/03/16,45,M,white,San Jose,CA
+Randall J. Selsor,07/03/16,45,M,white,Topeka,KS
+John Charles ""JC"" Graham,07/03/16,42,M,white,Billings,MT
+Daniel H. Chavez,07/03/16,41,M,hispanic,Carlsbad,NM
+Jeffrey Glen Casale,08/03/16,27,M,white,Tampa,FL
+Wesley Sheppard,10/03/16,37,M,white,Biloxi,MS
+Arteair Porter Jr.,10/03/16,22,M,black,Reno,NV
+Martin Hurtado,10/03/16,21,M,hispanic,Long Beach,CA
+Jason Meador,10/03/16,50,M,white,Odessa,TX
+German Gonzalez,10/03/16,23,M,hispanic,Colorado City,CO
+Tyre Privott,11/03/16,25,M,black,Norfolk,VA
+Manford ""Butch"" Moore Jr.,11/03/16,51,M,white,Rosalia,KS
+Jack Goodman,11/03/16,46,M,white,Clinton,IL
+Teodoro Valencia,11/03/16,23,M,hispanic,Newark,CA
+Peter Gaines,12/03/16,37,M,black,Houston,TX
+Marco Loud,12/03/16,20,M,black,Houston,TX
+Christopher Michael Tokazowski,12/03/16,43,M,white,Greensboro,NC
+Gevork Alachadzhyan,13/03/16,45,M,white,Glendale,CA
+Jose Raul Cruz,13/03/16,16,M,hispanic,Addison,TX
+Joshua Grubb,13/03/16,30,M,white,Lenoir City,TN
+Wesley Chad Deerman,13/03/16,26,M,white,Piedmont,AL
+Keith Montgomery Jr.,13/03/16,24,M,black,Chester,PA
+Amy Jean McCoy,13/03/16,38,F,white,Vancouver,WA
+Jacai Colson,13/03/16,28,M,black,Landover,MD
+Lamar Harris,14/03/16,29,M,black,Chicago,IL
+Joseph Harris,15/03/16,34,M,white,Russellville,KY
+Daniel J. Wooters,15/03/16,38,M,white,Evansville,IN
+Ed Russell McIver,15/03/16,43,M,white,Fort Worth,TX
+Cristian Rene Medina,16/03/16,23,M,hispanic,Florence,CA
+Eric Hernandez,16/03/16,33,M,hispanic,San Antonio,TX
+Dennis Penny,16/03/16,40,M,white,Anson County,NC
+Map Kong,17/03/16,38,M,asian,Burnsville,MN
+Sunny Chin,17/03/16,53,M,asian,Tampa,FL
+Scott Bennett,17/03/16,29,M,black,Houston,TX
+Christopher Nelms,17/03/16,30,M,black,Houston,TX
+Michael Mallet,18/03/16,49,M,Other,Byron,CA
+David Alma Giles,18/03/16,60,M,white,Idaho Falls,ID
+India Beaty,19/03/16,25,F,black,Norfolk,VA
+Joshua Douglas,19/03/16,24,M,white,Covington,LA
+Thurman Reynolds,19/03/16,21,M,black,Chicago,IL
+Dylan R. Whitaker,19/03/16,23,M,white,White Plains,KY
+Boyd Keith Ballard,20/03/16,61,M,white,Hopewell,VA
+Clarence Briggs,20/03/16,54,M,white,Fort Littleton,PA
+Abraham Martinez,20/03/16,62,M,hispanic,Fort Wayne,IN
+Robert Dentmond,20/03/16,16,M,black,Gainesville,FL
+Ralph ""Phil"" Grenon,21/03/16,76,M,white,Burlington,VT
+Dylan Pape,21/03/16,25,M,white,Stamford,CT
+Edward J. Gorinski,21/03/16,28,M,white,South Greensburg,PA
+Ethan James Rincon,22/03/16,25,M,hispanic,Miami,FL
+Travis J. Blair,22/03/16,33,M,white,Fredericksburg,VA
+Daven Scott Hannu,23/03/16,51,M,white,Thornton,CO
+Raymond Gonzalez,23/03/16,34,M,hispanic,Fresno,CA
+Alexio Allen,23/03/16,30,M,black,Raleigh,TN
+Robert L. Dussourd,24/03/16,44,M,white,Braintree,MA
+Dominique Silva,24/03/16,24,M,black,Pawtucket,RI
+Andrew Mike,24/03/16,29,M,white,Redlands,CA
+Joel A. Gonzales,24/03/16,48,M,hispanic,Pueblo,CO
+Mario Sandoval,24/03/16,19,M,hispanic,Pueblo of Laguna,NM
+Jermon Seals,24/03/16,22,M,black,Blue Springs,MO
+Jose Perez,26/03/16,39,M,hispanic,Lowell,MA
+Terrence Shane Blackburn,26/03/16,36,M,white,Grundy,VA
+Donald Andrew White,26/03/16,55,M,white,Myrtle Beach,SC
+Patrick Matthew McManamon,26/03/16,46,M,white,Tampa,FL
+Jeffrey Lanahan,27/03/16,34,M,white,Lee\'s Summit,MO
+Loreal Tsingine,27/03/16,27,F,native_american,Winslow,AZ
+Robert D. Guerin,27/03/16,33,M,white,Roswell,NM
+Deriante Deon Miller,27/03/16,18,M,black,Kinston,NC
+Earl Ashby,27/03/16,33,M,white,Splendora,TX
+Joseph Louis Melvin,29/03/16,46,M,white,Clearlake Park,CA
+Robert Morgan Garrison Jr.,29/03/16,51,M,white,Piedmont,SC
+Denise Fairchild,29/03/16,50,F,white,Aitkin,MN
+Angel Montion,30/03/16,33,M,white,Los Angeles,CA
+Ruben Cossyleon,30/03/16,25,M,hispanic,Glendale,AZ
+Thomas Lagano,30/03/16,52,M,white,Jackson,GA
+James Craig Simpson,31/03/16,31,M,black,Las Vegas,NV
+Kimani Johnson,31/03/16,18,M,black,Baltimore,MD
+Matthew Vincent Wood,31/03/16,43,M,black,Baltimore,MD
+James Brown III,31/03/16,34,M,black,Richmond,VA
+Jesus Juarez,01/04/16,65,M,hispanic,Lockhart,TX
+Joel Fabela,01/04/16,37,M,hispanic,Odessa,TX
+Cameron Gover,02/04/16,30,M,black,Indianapolis,IN
+Preston Paul Perez,03/04/16,48,M,white,Raceland,LA
+Melissa Boarts,03/04/16,36,F,white,Macon County,AL
+Darrin Andrew Martin,03/04/16,25,M,white,Austin,TX
+David Mack,03/04/16,69,M,white,Eau Claire,WI
+Raul Salvador Marquez Heraldes,04/04/16,50,M,hispanic,Minneapolis,MN
+Peter J. Doherty,05/04/16,52,M,white,West Springfield,MA
+Kevin Hicks,05/04/16,44,M,black,Indianapolis,IN
+Marvin Cremeans,06/04/16,60,M,white,Oak Hill,OH
+Laronda Sweatt,06/04/16,40,F,black,Gallatin,TN
+Cesar Frias,06/04/16,20,M,hispanic,Sylmar,CA
+Luis Gongora,07/04/16,45,M,hispanic,San Francisco,CA
+Lance C. McIntire,07/04/16,44,M,white,Omaha,NE
+Dazion Flenaugh,08/04/16,40,M,black,Sacramento,CA
+Melissa M. Abbott,08/04/16,25,F,white,Lake Hallie,WI
+Lamont Gulley,08/04/16,43,M,black,Kentwood,MI
+Diahlo Grant,09/04/16,27,M,black,New Brunswick,NJ
+Quron Williams,09/04/16,19,M,black,Philadelphia,PA
+Lonnie Ball,10/04/16,39,M,white,Modesto,CA
+William Clark,10/04/16,30,M,white,Rotterdam,NY
+Arturo Yobani-Torrez Valdez,10/04/16,28,M,hispanic,Los Angeles,CA
+Efren Eloy Trujillo,11/04/16,22,M,hispanic,Las Vegas,NV
+Pierre Loury,11/04/16,16,M,black,Chicago,IL
+Dion Daman,12/04/16,40,M,white,Denver,CO
+Joshua Moreno,12/04/16,38,M,hispanic,Benton,IL
+Travis Wood,12/04/16,20,M,white,Noma,FL
+Rodney Watts,13/04/16,35,M,black,Stockton,CA
+Jeffrey Gray Wise,13/04/16,52,M,white,Llano,TX
+Koltlee Whitson,13/04/16,26,M,white,Sparta,TN
+Jeff Robertson,14/04/16,54,M,white,McPherson,KS
+Clemente Najera,15/04/16,38,M,hispanic,Lake Elsinore,CA
+David Swatsky,15/04/16,52,M,white,Cache,OK
+Storm Allen Smith,15/04/16,26,M,white,Muncie,IN
+Gerald Robert Boyes,16/04/16,53,M,white,Antioch,IL
+Kisha Arrone,17/04/16,35,F,black,Dayton,OH
+Eric John Wilson,17/04/16,22,M,white,El Paso,TX
+Richard Bard Jr.,17/04/16,31,M,black,Vineland,NJ
+George Tillman,17/04/16,32,M,black,New York,NY
+Edson Thevenin,17/04/16,37,M,black,Troy,NY
+Rico Don Rae Johnson,18/04/16,28,M,black,Greenbelt,MD
+Demetrius Dorsey,18/04/16,18,M,black,Mableton,GA
+Sylasone Ackhavong,19/04/16,41,M,asian,Charlotte,NC
+Jorevis Scruggs,19/04/16,15,M,black,St. Louis,MO
+Daniel Eric Blackmon,19/04/16,38,M,white,Brooksville,AL
+Francis Scot Dufore,20/04/16,41,M,white,Homestead,FL
+Jackie Lee Kirkham,20/04/16,52,M,white,Perryville,AR
+Mario Mejia Martinez,21/04/16,48,M,hispanic,Everett,MA
+Tyler Hunkin,22/04/16,29,M,white,Austin,TX
+Carl Baranishyn,22/04/16,51,M,white,Berne,NY
+Demarcus Semer,23/04/16,21,M,black,Fort Pierce,FL
+Mitchell Oakley,23/04/16,24,M,white,Chandler,AZ
+Jakob E. Wagner,23/04/16,18,M,white,Antigo,WI
+Eric C. Wakup,23/04/16,30,M,white,Norfolk,VA
+Willie Tillman,23/04/16,33,M,black,Fayetteville,AR
+Kay Frances Campbell,25/04/16,60,F,white,East Flat Rock,NC
+Robin Barber,26/04/16,28,M,white,Lakewood,CO
+Joshua Brooks,26/04/16,26,M,black,Chesapeake,VA
+Jacquelyn Burke,26/04/16,24,F,white,Albuquerque,NM
+Darrel S. Machemehl,26/04/16,44,M,white,Kingsbury,TX
+David Shane Anderson,27/04/16,36,M,white,Milcreek,UT
+Cin Lam Mung,27/04/16,34,M,asian,Atlanta,GA
+Damon Blair,27/04/16,21,M,white,Westminster,CO
+Kendar del Rosario,28/04/16,37,M,black,Miami,FL
+Lee Easter,28/04/16,53,M,white,Boise,ID
+Michael Kurtz,28/04/16,45,M,white,Spokane,WA
+Ashtian Barnes,28/04/16,24,M,black,Houston,TX
+Jeffrey Darrell Hobbs,29/04/16,48,M,white,Jackson,MO
+Oswald Mattner,30/04/16,42,M,white,Wausau,WI
+Mark Daniel Bess,30/04/16,33,M,white,Spanish Fork,UT
+Bender Dass,30/04/16,55,M,white,Florence,AZ
+Marion Habana,30/04/16,28,M,asian,Los Angeles,CA
+Charlin Charles,01/05/16,25,M,black,Orlando,FL
+Ronald Branch,01/05/16,28,M,white,Alamo,TN
+Reginald Darnell Dogan,02/05/16,52,M,black,Greenville,SC
+Raymond Hopper,03/05/16,59,M,white,Visalia,CA
+Richard Ferretti,04/05/16,52,M,white,Philadelphia,PA
+Cayce A. DiTullio,04/05/16,39,M,white,Burien,WA
+Matthew Tucker,04/05/16,18,M,Other,Temecula,CA
+Gerry J. Thompson,04/05/16,40,M,white,Buffalo,MO
+Corey DiGiovanni,05/05/16,36,M,white,Gretna,LA
+Burt Johnson,05/05/16,38,M,black,Milwaukee,WI
+Deresha Armstrong,05/05/16,26,F,black,Orlando,FL
+Ronald D. Williams,06/05/16,,M,black,Weirton,WV
+Nathan Q. Cates,07/05/16,29,M,white,Lake Stevens,WA
+Alton Fitzgerald Witchard,07/05/16,37,M,black,St. Petersburg,FL
+Derek J. Sam,07/05/16,29,M,Other,Presque Isle,ME
+Lionel Gibson,08/05/16,21,M,black,Long Beach,CA
+Arthur R. Williams,09/05/16,33,M,black,El Paso,TX
+Jaffort Smith,09/05/16,33,M,black,St. Paul,MN
+Christian Bowman,09/05/16,23,M,white,St. Martin,MS
+Michael Johnson,09/05/16,26,M,white,Chicago,IL
+Joseph Napoli,09/05/16,59,M,Other,Hog Valley,FL
+Jamie Stotts,09/05/16,29,M,white,Nacogdoches,TX
+Arthur DaRosa,10/05/16,28,M,black,Taunton,MA
+Stephen Schuster,11/05/16,35,M,white,Aurora,CO
+Thongsoune Vilaysane,11/05/16,33,M,asian,San Diego,CA
+Sean Ryan Mondragon,11/05/16,24,M,black,Greeley,CO
+Steve Godfrey,11/05/16,,M,white,Byng,OK
+Robert Mark Diaz,13/05/16,28,M,hispanic,Boyle Heights,CA
+Cody Marsh,14/05/16,19,M,white,Jacksonsville,FL
+Francis Clark,14/05/16,43,M,native_american,Phoenix,AZ
+Jeffrey Sims,14/05/16,59,M,white,Osteen,FL
+Ryan Johnson,14/05/16,34,M,white,Stockbridge,GA
+Dracy ""Clint"" Pendleton,15/05/16,35,M,white,Shawnee National Forest,IL
+Jabril Robinson,16/05/16,23,M,black,Riverdale,GA
+Luke Sanders,17/05/16,36,M,white,Siskiyou County,CA
+Garry Conrad,18/05/16,46,M,white,New York,NY
+Joseph Weatherby,18/05/16,44,M,white,Sullivan,MO
+Israel Santos-Banos,18/05/16,20,M,hispanic,Phoenix,AZ
+Jeremias Cruz,19/05/16,30,M,hispanic,Las Vegas,NV
+Jessica Nelson-Williams,19/05/16,29,F,black,San Francisco,CA
+Jaime Ide,19/05/16,35,M,hispanic,Citrus Heights,CA
+Timothy Brandon Stacy,19/05/16,36,M,white,Fisty,KY
+Kentrill William Carraway,19/05/16,22,M,black,Miami,FL
+Joshua Beebee,20/05/16,31,M,black,Omaha,NE
+Norman Campbell,21/05/16,63,M,white,Chesterfield County,SC
+Travis Moore,21/05/16,38,M,white,Oregon City,OR
+Mark Nelson,21/05/16,31,M,native_american,Flagstaff,AZ
+Michael Eugene Wilson Jr.,22/05/16,27,M,black,Hallandale Beach,FL
+Jorge Zambrano,22/05/16,35,M,hispanic,Oxford,MA
+Vernell Bing,22/05/16,22,M,black,Jacksonville,FL
+Bryson Fischer,22/05/16,28,M,white,Boulder,CO
+Verl Bedonie,23/05/16,26,M,native_american,Flagstaff,AZ
+Bodhi Wilson Dean Phelps,24/05/16,22,M,white,Gresham,OR
+Leslie Goletz,24/05/16,57,M,Other,Harrisonville,MO
+Mario Montoya,24/05/16,31,M,hispanic,Albuquerque,NM
+Derek Prophet,25/05/16,43,M,white,Oklahoma City,OK
+Doll Pierre-Louis,25/05/16,24,M,black,Miami Gardens,FL
+Eugene ""Geno"" Francis Smith,26/05/16,29,M,white,St. Paul,MN
+Warren Christian,26/05/16,43,M,white,Lansing,IL
+TK Tk,26/05/16,,M,Other,San Antonio,TX
+Devonte Gates,26/05/16,21,M,black,Washington Park,IL
+Fernando Castro,26/05/16,19,M,hispanic,Solvang,CA
+Tk Tk,26/05/16,,F,Other,Sneads,FL
+Angel Daniel Navarro,26/05/16,25,M,hispanic,Socorro,NM
+Terry Edwards,27/05/16,59,M,white,Indianapolis,IN
+Dennis Hudson,28/05/16,50,M,black,Eastaboga,AL
+Dennis Humphrey,28/05/16,58,M,white,Albuquerque,NM
+Dionisio Augustine Garza III,29/05/16,25,M,hispanic,Houston,TX
+Donald Edward Brown III,29/05/16,32,M,white,Deland,FL
+John Mark Coffey,29/05/16,53,M,white,Clinton,NC
+Todd Brent Burroughs,29/05/16,38,M,white,Stoneville,NC
+Robert Wickizer,30/05/16,70,M,white,Tualatin,OR
+Osee Calix,30/05/16,33,M,black,Tucson,AZ
+Nicholas Berger,31/05/16,36,M,white,Bend,OR
+TK TK,01/06/16,,M,Other,Phoenix,AZ
+Michael Johnson,01/06/16,21,M,black,Newnan,GA
+Daniel Pigg,01/06/16,51,M,white,Berea,KY
+Willie Demetrius James,02/06/16,43,M,black,Norfolk,VA
+Rodney Rodriguez Smith,02/06/16,18,M,black,Charlotte,NC
+Joshua Smith,03/06/16,33,M,white,Wasilla,AK
+Hubert Thomas Burns Jr.,03/06/16,34,M,native_american,Parker,AZ
+Daniel Jonathan Shaham,04/06/16,31,M,Other,Yreka,CA
+Demarco Rhymes,04/06/16,35,M,black,Eufaula,AL
+Larry Dustin Stepp,04/06/16,31,M,white,Muncie,IN
+Christopher Michael Moran,05/06/16,31,M,white,Cape Coral,FL
+Henry Green,06/06/16,23,M,black,Columbus,OH
+Kalyp Allen Rapoza,06/06/16,25,M,Other,Hilo,HI
+Andrew Henson,07/06/16,25,M,white,Wagoner,OK
+Omar Villagomez,07/06/16,21,M,hispanic,Turlock,CA
+Willis N. Walker,07/06/16,49,M,black,Norman,VA
+William David Powell,07/06/16,63,M,white,Stockbridge,GA
+Carlos Garcia,08/06/16,43,M,hispanic,Kansas City,MO
+William Michael Hollis,09/06/16,34,M,white,Birmingham,AL
+James Allen Nickol,09/06/16,38,M,white,York,PA
+John Michael Brisco,09/06/16,52,M,black,Port Arthur,TX
+Clifford Tucker,09/06/16,68,M,white,Ishpeming Township,MI
+TK TK,09/06/16,,M,Other,Somerton,AZ
+Keith Bursey,10/06/16,31,M,black,Los Angeles,CA
+Clayton Millsaps,10/06/16,29,M,white,Iredell County,NC
+Bobby Sanchez,10/06/16,32,M,hispanic,Pueblo,CO
+J. Juan Briseno-Ortega,10/06/16,50,M,hispanic,Yakima,WA
+Lyndarius Cortez Witherspoon,11/06/16,27,M,black,Tupelo,MS
+Jesus Duran,11/06/16,31,M,hispanic,Maywood,CA
+Omar Mateen,12/06/16,29,M,Other,Orlando,FL
+Daniel Bennett Edwards,12/06/16,23,M,white,Eagle Mountain,UT
+John Williams,12/06/16,61,M,black,Hiseville,KY
+Joshua Sciscm,13/06/16,33,M,white,Schenectady,NY
+Michael Moore,13/06/16,18,M,black,Mobile,AL
+Edward Acquisto,13/06/16,80,M,hispanic,Tiverton,RI
+Kenneth Allen Pointer,13/06/16,43,M,white,Vancouver,WA
+Noel Rodriguez,14/06/16,50,M,hispanic,Boise,ID
+Nicholas Ferro,14/06/16,47,M,white,Odessa,MO
+Mohammad Moghaddam,14/06/16,54,M,Other,Amarillo,TX
+Fernando Geovanni Llanez,14/06/16,22,M,hispanic,Chula Vista,CA
+Russell Rosser,15/06/16,43,M,white,Tulsa,OK
+Michael Rasmussen,15/06/16,38,M,white,Pembine,WI
+Ronald Delfino,16/06/16,21,M,hispanic,Albuquerque,NM
+Peter Grandpre,16/06/16,36,M,white,Butte,MT
+Nicholas Damon,16/06/16,30,M,hispanic,Westminster,CO
+John Anderson,16/06/16,,M,Other,Montpelier,OH
+William Thomas Hennessey,18/06/16,34,M,white,Huntsville,AL
+Sergey Makarenko,18/06/16,17,M,white,Carmichael,CA
+Antwun Shumpert,18/06/16,37,M,black,Tupelo,MS
+Rashaun Lloyd,19/06/16,25,M,black,New York,NY
+Anthony Ford,19/06/16,30,M,Other,Fort Walton Beach,FL
+Raufeal M. Bostick,20/06/16,23,M,black,Hardeeville,SC
+Devin Christopher Scott,20/06/16,20,M,white,Lake Havasu City,AZ
+Lane Lesko,21/06/16,19,M,white,Peterborough,NH
+Jeff Hyde,21/06/16,50,M,white,Casper,WY
+Pedro Cruz-Amado,21/06/16,24,M,hispanic,Lawndale,NC
+Josiah Williams,22/06/16,25,M,white,Colorado Springs,CO
+Isaiah Core,22/06/16,20,M,black,Birmingham,AL
+Roger Ponce,22/06/16,37,M,white,Wellington,FL
+Quencezola Maurice Splunge,22/06/16,44,M,black,Walls,MS
+Deravis Caine Rogers,22/06/16,22,M,black,Atlanta,GA
+Shaun Trevor Walke,22/06/16,31,M,white,Bellville,TX
+Jay Anderson,23/06/16,25,M,black,Wauwatosa,WI
+Angelo Brown,23/06/16,,M,black,Belleville,IL
+Josh Herrera,23/06/16,29,M,Other,Hanover,NM
+Ismael Miranda,24/06/16,36,M,black,Paterson,NJ
+Randy Blecher,24/06/16,50,M,white,Farmington,AR
+Christy Sheats,24/06/16,42,F,white,Fulshear,TX
+Miguel Angel Chavez-Angles,24/06/16,42,M,hispanic,Oklahoma City,OK
+Jamil Alejandro Valladares,24/06/16,26,M,hispanic,Riverview,FL
+Dylan Noble,25/06/16,19,M,white,Fresno,CA
+Waldemar Bogusiewicz,25/06/16,59,M,white,Pinellas Park,FL
+Rodrigo Guardiola,25/06/16,36,M,hispanic,Gainesville,GA
+William Ferguson,25/06/16,,M,Other,Buckeye,AZ
+Terry Lynn Maurer,26/06/16,51,M,white,Columbia Township,MI
+Daniel Reyes,26/06/16,27,M,hispanic,Thomaston,CT
+Germichael Kennedy,26/06/16,22,M,black,Lincoln,NE
+Donte L. Johnson,26/06/16,30,M,black,Dolton,IL
+Michael Disbrowe,27/06/16,28,M,white,Boone,IA
+Sherman Evans,27/06/16,63,M,black,Washington,DC
+Blake Peacock,27/06/16,32,M,white,Cochran,GA
+Travis Vierra,27/06/16,26,M,white,Laguna Pueblo,NM
+Raymond Hutson,27/06/16,25,M,white,Frederica,DE
+Barry Prak,28/06/16,27,M,asian,Long Beach,CA
+Walden Dang,28/06/16,61,M,asian,Honolulu,HI
+Jessie J. Mills,29/06/16,30,M,white,Barbourville,KY
+Tyrone Reado,29/06/16,,M,black,Ouachita Parish,LA
+Lafayette Evans,29/06/16,37,M,black,Fort Madison,IA
+Michael William Schumacher,29/06/16,41,M,white,Madison,WI
+Kawme Dejuan Patrick,30/06/16,25,M,black,Columbus,OH
+Tristan Vilters,30/06/16,24,M,white,Park County,CO
+Jasen Scott Ramirez,30/06/16,44,M,hispanic,Douglas,WY
+Alexis George Mishtowt,01/07/16,63,M,white,Landrum,SC
+Steven McQueen,01/07/16,30,M,white,Cartersville,GA
+Helmut Wihowski,01/07/16,58,M,white,Jackson,WI
+Jai Lateef Solveig Williams,02/07/16,35,M,black,Asheville,NC
+Jonathan Lane Justiss,02/07/16,50,M,white,Bristol,TN
+Shannon Labit,03/07/16,40,M,white,New Iberia,LA
+Raul Saavedra-Vargas,03/07/16,,M,hispanic,Reno,NV
+Pedro Villanueva,03/07/16,19,M,hispanic,Fullerton,CA
+William Tracy Patterson,04/07/16,34,M,white,North Charleston,SC
+Anthony Nunez,04/07/16,18,M,hispanic,San Jose,CA
+Sidney Washington,04/07/16,21,M,black,Washington,DC
+TK TK,04/07/16,,M,Other,Rosser,TX
+Alton Sterling,05/07/16,37,M,black,Baton Rouge,LA
+Joshua Bolster,05/07/16,29,M,white,Salem,OR
+Sam Newby,05/07/16,49,M,white,Temecula,CA
+Melissa Ventura,05/07/16,24,F,hispanic,Yuma,AZ
+Philando Castile,06/07/16,32,M,black,Falcon Heights,MN
+Thomas Vandemark,06/07/16,65,M,white,Rush Springs,OK
+Vinson Lee Ramos,07/07/16,37,M,hispanic,Bell,CA
+Adam Smith,07/07/16,33,M,white,Clovis,CA
+Earnest Fells,07/07/16,63,M,black,Selma,AL
+Abraham Smith,08/07/16,30,M,white,Tucson,AZ
+Andre Johnson,09/07/16,40,M,black,Broken Bow,OK
+Alva Burnett Braziel,10/07/16,38,M,black,Houston,TX
+Joseph Mann,11/07/16,50,M,black,Sacramento,CA
+Jason Brooks,11/07/16,41,M,black,East St. Louis,IL
+Pablo Medina,11/07/16,41,M,hispanic,Romulus,MI
+Orville Edwards,11/07/16,39,M,black,New York,NY
+Larry Darnell Gordon,11/07/16,44,M,white,St. Joseph,MI
+Benjamin Zeckovic,12/07/16,23,M,white,Anchorage,AK
+Donald S. Myers,13/07/16,32,M,white,Flagstaff,AZ
+Richard G. Dinneny,13/07/16,56,M,white,Middletown,NY
+Dayten Ernest Harper,14/07/16,33,M,black,Baltimore,MD
+Bobby Horne,15/07/16,63,M,white,Peachland,NC
+Billy D. Smith,16/07/16,31,M,white,Lake Asbury,FL
+Cody Wayne Jarrett,16/07/16,26,M,white,San Bernardino,CA
+Patrick Fennell,16/07/16,57,M,white,Little Egg Harbor Township,NJ
+Kevin Higgins,17/07/16,39,M,white,Sheboygan,WI
+Michael Ray Ramsey,17/07/16,43,M,white,Tulsa,OK
+Jermaine Johnson,17/07/16,42,M,black,New York,NY
+Gavin Eugene Long,17/07/16,29,M,black,Baton Rouge,LA
+Jerry Brimer,18/07/16,56,M,white,Tulsa,OK
+Javier Garcia Gaona,20/07/16,31,M,hispanic,Santa Maria,CA
+Derek Love,21/07/16,50,M,black,Chicago,IL
+BJ Medeiros,21/07/16,36,M,Other,Hilo,HI
+Paul Edward Yacabitis,22/07/16,50,M,white,Buckhannon,WV
+Steven Alfred Longoria,23/07/16,34,M,hispanic,San Antonio,TX
+Austin Jerry Lee Howard,23/07/16,49,M,black,Milwaukee,WI
+Bernard Wells,23/07/16,31,M,black,Chino,CA
+Robert Lee Lourenco,24/07/16,36,M,white,Winchester,CA
+Alvin R. Sylversmythe,24/07/16,29,M,native_american,Gallup,NM
+Jeff Cornell Tyson,25/07/16,32,M,black,Indianapolis,IN
+Richard Risher,25/07/16,18,M,black,Los Angeles,CA
+Scot Minard,26/07/16,50,M,white,Pine River,WI
+Juan Reynaldo Duran,26/07/16,36,M,hispanic,Artesia,NM
+Michael Adams,27/07/16,33,M,white,Estill Springs,TN
+Devon Martes,27/07/16,17,M,black,Metairie,LA
+Dalvin Hollins,27/07/16,19,M,black,Tempe,AZ
+Dylan Liberti,27/07/16,24,M,white,Scottsdale,AZ
+Saddam Trejeda-Campos,27/07/16,24,M,hispanic,San Bernardino,CA
+Emil Ambrose Mecklenburg,27/07/16,20,M,white,Malta,MT
+Jorge Moreno-Aguirre,28/07/16,41,M,hispanic,Sparks,NV
+Jeffrey Smith,28/07/16,47,M,black,La Quinta,CA
+Paul O\'Neal,28/07/16,18,M,black,Chicago,IL
+Jesus Rael,28/07/16,31,M,hispanic,Tucson,AZ
+Donnell Thompson,28/07/16,27,M,black,Compton,CA
+Omar Gonzalez,28/07/16,36,M,hispanic,City Terrace,CA
+Melvin Faison,29/07/16,59,M,white,Pleasant Hill,NC
+Amanda Page Bivens,29/07/16,40,F,white,Homewood,AL
+John Casey,31/07/16,32,M,white,Phelps,KY
+Mario Martinez Torres,31/07/16,38,M,hispanic,Wapato,WA
+Limichael Shine,31/07/16,18,M,asian,Manchester,NJ
+Richard Swihart,01/08/16,32,M,Other,Santa Ana,CA
+Korryn Gaines,01/08/16,23,F,black,Randallstown,MD
+Bryan N. Byrd,01/08/16,43,M,white,Edmund,SC
+Kenneth Eugene Bonanno,01/08/16,67,M,white,Stafford,VA
+Richard Lance London,02/08/16,22,M,white,Lake City,SC
+Adam Jo Klimek,02/08/16,31,M,white,Alexandria,MN
+DeMarco Newman,02/08/16,43,M,black,Palm Bay,FL
+Matthew David Conrad,02/08/16,34,M,white,Hammett,ID
+William Bowers,02/08/16,51,M,white,Castaic,CA
+Benjamin William Heaton,03/08/16,31,M,white,Clearfield,UT
+Bradley Carey,03/08/16,54,M,white,Detroit,MI
+E.J. Walters,03/08/16,69,M,white,Scott County,VA
+Johannes Wood,05/08/16,58,M,white,Aldie,VA
+Jamarion Rashad Robinson,05/08/16,26,M,black,East Point,GA
+David Michael Moya,05/08/16,31,M,Other,Santee,CA
+James Quealy,05/08/16,59,M,white,Beaver Dam,WI
+Jawari Porter,07/08/16,25,M,black,Cincinnati,OH
+Earl Pinckney,07/08/16,20,M,black,Harrisburg,PA
+James W. Jennings,08/08/16,69,M,white,Little Mountain,SC
+Darnell Wicker,08/08/16,57,M,black,Louisville,KY
+Michael McClurg,08/08/16,56,M,white,Citrus Heights,CA
+James Eugene Burgess,08/08/16,64,M,white,Wilkesboro,NC
+Juan J. Godines,08/08/16,34,M,hispanic,Georgetown,KY
+Ronald Smith,09/08/16,45,M,white,Circleville,OH
+Jesse James Romero,09/08/16,14,M,hispanic,Los Angeles,CA
+Jeffrey Allen Morris,09/08/16,44,M,white,Piedmont,SC
+Tommy Seneca,11/08/16,54,M,white,Plaquemine,LA
+Jeff Martelli,11/08/16,59,M,white,Tukwila,WA
+Sergio Daniel Weick,11/08/16,33,M,hispanic,Vista,CA
+Jesus Armando Carillo,12/08/16,22,M,hispanic,Mesa,AZ
+Dominic Rollice,12/08/16,49,M,white,Tahlequah,OK
+Eric Ortega Soto,13/08/16,36,M,hispanic,Hayward,CA
+Sylville Smith,13/08/16,23,M,black,Milwaukee,WI
+Ruben Horacio Strand Alvear,13/08/16,38,M,hispanic,Phoenix,AZ
+Perry Lee Heitman,13/08/16,53,M,white,Lakewood,CO
+Jovany Martinez,15/08/16,29,M,hispanic,Falls Church,VA
+Danny Pirtle,15/08/16,42,M,white,Counce,TN
+Marcos Antonio Gastelum,16/08/16,25,M,hispanic,Tucson,AZ
+Kenney Watkins,16/08/16,18,M,black,Los Angeles,CA
+John O\'Handley,16/08/16,55,M,white,Augusta,WV
+Michael S. Martin,16/08/16,36,M,white,Rome,OH
+Carl Nivens,16/08/16,32,M,white,Lenoir,NC
+Larry Eugene Kurtley,16/08/16,53,M,white,Apache Junction,AZ
+Colby Friday,16/08/16,30,M,black,Stockton,CA
+Omer Ismail Ali,17/08/16,27,M,black,Kelso,WA
+Francisco Villarreal,18/08/16,37,M,hispanic,Bakersfield,CA
+Daniel Kevin Harris,18/08/16,29,M,white,Charlotte,NC
+Chad Irwin,18/08/16,40,M,white,Antelope,CA
+Joseph Weber,18/08/16,36,M,white,Hays,KS
+Trenton Lohman,18/08/16,38,M,white,Poway,CA
+David Klassen,18/08/16,29,M,white,Ruidoso,NM
+David Fulton,18/08/16,59,M,white,McKinneyville,CA
+Marcelo Luna,19/08/16,47,M,hispanic,East Hollywood,CA
+Jorge Ceniceros,19/08/16,22,M,hispanic,Phoenix,AZ
+Kole B. Knight,19/08/16,31,M,white,New London,WI
+Kyle Zimbelman,19/08/16,29,M,white,Reno,NV
+Todd P. Browning,19/08/16,54,M,white,East Ridge,TN
+Pedro Montanez,20/08/16,71,M,hispanic,Indio,CA
+Juan Gabriel Torres,21/08/16,36,M,hispanic,Las Cruces,NM
+Kelley Brandon Forte,22/08/16,34,M,black,Hamilton,OH
+Bobby Lyn Buck,23/08/16,49,M,white,Myra,TX
+Elias Portillo,24/08/16,36,M,hispanic,Oak Cliff,TX
+William Charbonneau,24/08/16,43,M,white,Orlando,FL
+Jeffrey Darren Hosea,24/08/16,53,M,white,Shelbyville,TN
+Jerry Lee Jackson,25/08/16,63,M,Other,Fort Collins,CO
+Donta Taylor,25/08/16,31,M,black,Compton,CA
+David Coborubio,25/08/16,32,M,hispanic,Compton,CA
+Matthew Gibbon,26/08/16,41,M,white,Las Vegas,NV
+Angel Torres Jr.,27/08/16,26,M,hispanic,Phoenix,AZ
+Terry Salazar,27/08/16,49,M,Other,Denver,CO
+Darrel Hetrick,27/08/16,82,M,white,Morgantown,WV
+Justin Kulhanek-Derks,28/08/16,37,M,white,Eagan,MN
+Jaqwan Julius Terry,29/08/16,24,M,black,Raleigh,NC
+Michael Peacor,29/08/16,56,M,white,San Bernardino,CA
+Paula Dell Phillips,29/08/16,35,F,white,Kingman,AZ
+James Robert Richards,29/08/16,28,M,Other,Fairbanks,AK
+Justin Baker,30/08/16,36,M,Other,Graham,WA
+Levonia Riggins,30/08/16,22,M,black,Tampa,FL
+Lyle Patrick Blanchard,30/08/16,59,M,white,Harker Heights,TX
+Gregory Mathis,30/08/16,36,M,white,Weatherford,TX
+Michael Ferguson,31/08/16,21,M,white,Denver,CO
+Thomas E. Sekscinski,31/08/16,38,M,white,McDowell,MO
+Ed Holup,01/09/16,60,M,white,Sylvania Township,OH
+Caleb J. Douglas,01/09/16,18,M,white,Wichita,KS
+Joshua Quintero,01/09/16,23,M,hispanic,Florence,CA
+TK TK,01/09/16,,M,hispanic,Huntington Park,CA
+Joseph Moreno,02/09/16,38,M,hispanic,Alamogordo,NM
+Randall Rodick,02/09/16,40,M,Other,Parker,CO
+Michael Robert Musson,02/09/16,22,M,white,Round Lake,IL
+Michael Thompson,02/09/16,38,M,black,St. Louis,MO
+Jerome Damon,03/09/16,25,M,black,Atlantic City,NJ
+Cameron Ayers,03/09/16,25,M,white,East Wenatchee,WA
+Donny Max Daugherty,03/09/16,36,M,white,Metropolis,IL
+Jeremiah Richard Ramirez,03/09/16,,M,Other,Temple,TX
+Jose Romero,04/09/16,,M,hispanic,Long Beach,CA
+Simon Gomez,04/09/16,44,M,hispanic,Grand Junction,CO
+Moses Ruben,05/09/16,36,M,black,Ellis County,TX
+Cesar Garcia,05/09/16,35,M,hispanic,Austin,TX
+David L. Anderson,06/09/16,25,M,white,Omaha,NE
+Bernard Cottrell,06/09/16,65,M,Other,Spencer,WV
+Steven Del Rio,06/09/16,31,M,hispanic,Phoenix,AZ
+Larry Grant Whitehead,06/09/16,70,M,white,Gray,TN
+Dylan Papa,06/09/16,25,M,white,Phoenix,AZ
+Robert Lee Brown,07/09/16,55,M,black,Albany,GA
+Jesse Daniel Joynt,07/09/16,35,M,white,Titusville,FL
+Sadiq Bishara-Abaker Idris,07/09/16,25,M,black,Wyoming,MI
+Francis Perry,08/09/16,32,M,white,Lakeland,FL
+Jose Torres,08/09/16,38,M,hispanic,Delhi,CA
+Ricardo Tenorio,09/09/16,32,M,hispanic,Memphis,TN
+Travis Ell,09/09/16,64,M,white,Auburn,WA
+Gregory Frazier,09/09/16,55,M,black,Pompano Beach,FL
+Dennis Claude Stanley,10/09/16,69,M,white,Montcalm,WV
+Adrian Joseph Shaffer,10/09/16,37,M,white,Boulder,CO
+Terrence Sterling,11/09/16,31,M,black,Washington,DC
+Eugene Craig,12/09/16,86,M,Other,Saratoga,CA
+Markell Bivins,12/09/16,25,M,black,Cedar Rapids,IA
+Christian Vargas,12/09/16,25,M,hispanic,Colton,CA
+Tyre King,14/09/16,13,M,black,Columbus,OH
+Robert Carrillo,15/09/16,32,M,hispanic,Phoenix,AZ
+Morgan Wayne Crocker,15/09/16,34,M,white,Austin,TX
+Joseph Allen Schlosser,15/09/16,69,M,white,Weeki Wachi,FL
+Thomas P. Mone,16/09/16,46,M,Other,Big Bear,MO
+Terence Crutcher,16/09/16,40,M,black,Tulsa,OK
+Jesse Beshaw,16/09/16,29,M,native_american,Winooski,VT
+Lucas Anderson,16/09/16,29,M,white,Owensboro,KY
+Robert Duh,17/09/16,42,M,white,Beaumont,CA
+Nicholas Glenn,17/09/16,25,M,black,Philadelphia,PA
+Robert Young,17/09/16,45,M,white,Huntsville,AL
+William Joseph Ryan,17/09/16,55,M,white,Rutherfordton,NC
+Dahir Adan,17/09/16,22,M,Other,St. Cloud,MN
+Philip Hasan,18/09/16,61,M,black,Akron,OH
+Michelle Miller,19/09/16,46,F,white,Spring,TX
+Jeremy Ray Swenson,19/09/16,30,M,white,Logan Canyon,UT
+Gary Don Lafon,19/09/16,56,M,white,Wood County,TX
+Charles Dove,20/09/16,35,M,white,Decatur County,TN
+Joshua Scott,20/09/16,22,M,white,Port St. Lucie,FL
+Michael Goodale,20/09/16,23,M,white,Mashantucket,CT
+Keith Lamont Scott,20/09/16,43,M,black,Charlotte,NC
+Sandy Joe Duke,20/09/16,43,M,white,Nashville,TN
+Thomas Tucker,20/09/16,49,M,white,Westminster,CO
+Austin M. Baier,21/09/16,23,M,white,Louisville,NE
+Jesse Ataway,23/09/16,41,M,white,Fair Oaks,CA
+Oddis Bernard Colvin,23/09/16,33,M,black,Pikesville,MD
+Christopher Contreras,23/09/16,30,M,hispanic,San Antonio,TX
+Cody Lafont,25/09/16,25,M,white,Claremont,NH
+Anthony Ray Bauer,26/09/16,52,M,white,Garden City,ID
+Leeland White,26/09/16,32,M,white,Little Rock,AR
+Nathan DeSai,26/09/16,46,M,white,Houston,TX
+Jamie Joseph Lewis,26/09/16,48,M,white,Burnsville,MN
+Alfred Olango,27/09/16,38,M,black,El Cajon,CA
+John Ethan Carpentier,27/09/16,26,M,white,Phoenix,AZ
+Christopher Sowell,28/09/16,32,M,black,Philadelphia,PA
+Johnathan Lozano-Murillo,28/09/16,28,M,hispanic,Valdosta,GA
+Jeffrey Clair Cave,29/09/16,53,M,white,Kingman,AZ
+Clayton Eugene Baker,30/09/16,38,M,white,Groveton,TX
+George Richards-Meyers,30/09/16,18,M,black,Newark,NJ
+Douglas Marrickus Rainey,30/09/16,32,M,black,Campobello,SC
+Richard Parent,30/09/16,37,M,white,Belleville,MI
+Najier Salaam,30/09/16,18,M,black,Newark,NJ
+Jacquarius M. Robinson,30/09/16,20,M,black,Columbus,OH
+Joshua Allen Perry,01/10/16,28,M,white,Hometown,WV
+Carnell Snell,01/10/16,18,M,black,Los Angeles,CA
+Daniel Perez,02/10/16,16,M,hispanic,Los Angeles,CA
+Donte T. Jones,02/10/16,36,M,black,Markham,IL
+Robert Dapkus,03/10/16,57,M,white,Lynn,MA
+John H. Fetter,03/10/16,49,M,white,Ventnor,NJ
+Isaias Salgado,04/10/16,31,M,hispanic,Riverview,FL
+Zachary Sutton,04/10/16,26,M,white,Springdale,AR
+Dean Bruning,04/10/16,51,M,white,Hessel,MI
+Brandon Simmons,05/10/16,28,M,white,Boulder,CO
+Lucas M. Felkel,05/10/16,35,M,white,Moncks Corner,SC
+Larry Daniel Matthews,07/10/16,57,M,black,Macon,GA
+Joseph S. Schroeder,07/10/16,36,M,white,Fort Wayne,IN
+Eddie Collins,07/10/16,42,M,white,Killeen,AL
+Christopher Darnell Shackleford,07/10/16,,M,black,Alexandria,LA
+Thomas Jeffery Burns,07/10/16,49,M,white,Benton,AR
+Charles Antrup,08/10/16,62,M,white,Fort Wayne,IN
+Ricardo Hernandez,08/10/16,21,M,hispanic,Federal Way,WA
+Dylan Rogers,08/10/16,39,M,Other,Wetumka,OK
+Kim Jackson,08/10/16,53,F,white,Modesto,CA
+Deric J. Brown,09/10/16,41,M,black,Syracuse,NY
+Luis Michael Hoff,09/10/16,40,M,white,Scottsdale,AZ
+Dennis Hunt,10/10/16,50,M,Other,Lumberton,NC
+Maurico Barron,10/10/16,27,M,hispanic,Irvine,CA
+Kheyanev Littledog,10/10/16,19,M,native_american,Midland,TX
+Devan Desnoyers,10/10/16,26,M,white,Westlake,OH
+Michael L. Taylor,11/10/16,44,M,asian,Seattle,WA
+Dominick Musulman,11/10/16,30,M,white,Concord,CA
+Blaine J. Beason,12/10/16,31,M,white,Livingston Parish,LA
+Kirk Figueroa,12/10/16,33,M,black,Boston,MA
+Matthew Brewer,12/10/16,22,M,white,Morehead,KY
+Rex Vance Wilson,13/10/16,50,M,Other,Las Vegas,NV
+Shawn Pappe,13/10/16,46,M,white,Grants Pass,OR
+Patrick D. Reddeck,13/10/16,38,M,white,Kent,WA
+Chaz Logan York,14/10/16,23,M,white,Beaumont,TX
+George Zapata,14/10/16,24,M,hispanic,Oak Cliff,TX
+Nicholas McWherter,14/10/16,26,M,white,San Francisco,CA
+Daniel Richard Murphy,15/10/16,38,M,Other,Phenix City,AL
+Micah Dsheigh Jester,16/10/16,26,F,white,Austin,TX
+Sean Arlt,16/10/16,32,M,white,Santa Cruz,CA
+Rolando Delgado,17/10/16,50,M,hispanic,Miami,FL
+Keegan Schweikle,17/10/16,17,M,white,Benton,AR
+Eric St. Germain,17/10/16,39,M,white,Holiday,FL
+Darius Wimberly,18/10/16,28,M,black,Benton Harbor,MI
+Deborah Danner,18/10/16,66,F,black,Bronx,NY
+Salvador Reyes,18/10/16,42,M,hispanic,Tulsa,OK
+Charles Stidham,18/10/16,34,M,white,Paris,KY
+Frank J. Sandor,19/10/16,38,M,white,Willoughby,OH
+Anthony Garcia,19/10/16,24,M,Other,Dallas,TX
+Javier Munoz,19/10/16,28,M,hispanic,Henderson,NV
+Jacob DePetris,20/10/16,29,M,white,Jacksonville,FL
+William Frost,21/10/16,58,M,white,Tulsa,OK
+Renee Davis,21/10/16,23,F,native_american,Muckleshoot Indian Reservation,WA
+Nathaniel B. Dorough,22/10/16,21,M,white,Westover,AL
+Kristofer Daniel Youngquist,23/10/16,45,M,white,Peterson,MN
+Kenny Tomblin,23/10/16,38,M,white,Edmonton,KY
+Demetrius Mac Moore,23/10/16,40,M,black,Colorado Springs,CO
+Aaron Marquis Ballard,24/10/16,19,M,black,North St. Louis,MO
+Roy Lee Richards,25/10/16,46,M,black,Little Rock,AR
+Brandon Jones,25/10/16,25,M,white,Elkton,MD
+Chelsea M. Porter,25/10/16,25,F,white,Elkton,MD
+Brandon Millard,25/10/16,37,M,white,Lincoln,CA
+Malcolm Loren Hickson,26/10/16,25,M,black,Carrollton,TX
+William Clifford Cole,26/10/16,36,M,white,Bartlesville,OK
+Kyle Killough,27/10/16,32,M,white,Billings,MT
+Thad Demarco Hale,27/10/16,33,M,black,San Antonio,TX
+Edwin Amaya Maldonado,27/10/16,24,M,hispanic,Elberton,GA
+Jay Johannes Holmgren,28/10/16,37,M,white,Morris,MN
+Jason King,28/10/16,38,M,black,Sacramento,CA
+Jun Wang,28/10/16,45,M,asian,North Royalton,OH
+Terrence Coleman,30/10/16,31,M,black,Boston,MA
+Kenneth Jack Kennedy,30/10/16,34,M,white,Kingman,AZ
+Jordan Gonzales,30/10/16,23,M,hispanic,Corpus Christi,TX
+Michael Dale Vance Jr.,30/10/16,38,M,Other,Leedey,OK
+Michelle Lee Shirley,31/10/16,39,F,black,Torrance,CA
+Jose Armando Cueva,31/10/16,55,M,hispanic,Chatsworth,CA
+Ashley Sides,31/10/16,31,F,white,Brookville,OH
+Henry Simpson,01/11/16,76,M,white,Carson City,NV
+Wilton Henry,02/11/16,59,M,white,Houma,LA
+Jesse Jay Taylor,02/11/16,40,M,white,West Jordan,UT
+Ferguson Laurent,03/11/16,23,M,black,Salisbury,NC
+Dennis Kirk,03/11/16,64,M,Other,Chambersburg,PA
+Rita King,03/11/16,56,F,Other,Loganville,GA
+Abraham Ortiz,04/11/16,26,M,hispanic,Palm Springs,CA
+Manuel Rosales,04/11/16,35,M,hispanic,New York,NY
+John F. Zemola,05/11/16,49,M,white,Lealman,FL
+James Carl Coale,05/11/16,36,M,white,Okemah,OK
+Russell Elswick,05/11/16,56,M,white,Clendenin,WV
+Edward Lowell Hills,05/11/16,59,M,Other,Beaver,WA
+Patrick Wise,05/11/16,34,M,white,Gladewater,TX
+David Contreras,06/11/16,33,M,hispanic,Santa Ana,CA
+Joel B. Keenan,06/11/16,43,M,white,Aiken,SC
+Randy J. Clark,06/11/16,43,M,white,Bowling Green,KY
+Jimmy L. Testa,06/11/16,31,M,white,Maurice River,NJ
+Christian Andrew Redwine,06/11/16,17,M,white,Phenix City,AL
+Joseph Newcomb,06/11/16,32,M,white,Hensley,WV
+Darryl Chisholm,07/11/16,31,M,black,Philadelphia,PA
+Kenton Kobza,08/11/16,19,M,white,Hays,KS
+Juan Ramos,08/11/16,23,M,hispanic,Denver,CO
+Evan Cox,08/11/16,26,M,white,Ashtabula,OH
+Carlos Mendez,08/11/16,45,M,hispanic,Azusa,CA
+Daniel Erickson,09/11/16,36,M,white,Show Low,AZ
+George Delacruz,10/11/16,41,M,hispanic,San Angelo,TX
+John Pacuicrk,10/11/16,53,M,white,Lakeland,FL
+TK TK,11/11/16,,M,Other,East Point,GA
+Brian Gaither,11/11/16,24,M,white,Grand Junction,CO
+Marco Romero,11/11/16,,M,hispanic,Boise,ID
+William Ray Score,11/11/16,47,M,Other,Montrose County,CO
+James Dale Ritchie,12/11/16,40,M,white,Anchorage,AK
+Richard T. Herrera,12/11/16,29,M,hispanic,Tucson,AZ
+Jonathan M. Young,13/11/16,38,M,Other,Bloomsburg,PA
+Juan Carlos Fernandez,13/11/16,22,M,hispanic,San Diego,CA
+Daniel Laguna,13/11/16,21,M,hispanic,Oklahoma City,OK
+Rasheem Singletary,15/11/16,25,M,black,York County,PA
+Robert Daffern,15/11/16,37,M,white,Webster,TX
+Michael Cookson,15/11/16,48,M,Other,Temecula,CA
+Jose George Anthony Franco,16/11/16,37,M,hispanic,Whittier,CA
+Edmund Leighty,16/11/16,56,M,white,Redding,CA
+Joseph Leland Fletcher,18/11/16,35,M,white,Fort Walton Beach,FL
+Samson Fleurant,18/11/16,25,M,black,Port St. Lucie,FL
+Dontrell Montrese Carter,18/11/16,25,M,black,Ludowici,GA
+Gabriel Parker,18/11/16,48,M,Other,Casa Grande,AZ
+Darius Jones,18/11/16,26,M,black,Chicago,IL
+Adalid Flores,19/11/16,29,M,hispanic,Anaheim,CA
+Luke Smith,19/11/16,15,M,asian,Watsonville,CA
+Steve Dwayne Vananda,19/11/16,55,M,Other,Chickasha,OK
+Erickson Brito,19/11/16,21,M,black,Brooklyn,NY
+Andrew Moreno,20/11/16,24,M,hispanic,San Antonio,TX
+Jacob C. Stevens,20/11/16,18,M,white,Kansas City,MO
+George Bush III,21/11/16,19,M,black,St. Louis,MO
+Michael Giles,21/11/16,27,M,white,Lompoc,CA
+Mark Daniel Sly,22/11/16,45,M,hispanic,La Mirada,CA
+Ivory C. Pantallion,22/11/16,36,M,black,Baytown,TX
+Frank Nathaniel Clark,22/11/16,34,M,black,Durham,NC
+Talif Scudder,22/11/16,23,M,black,Newark,NJ
+William J. Beavers,23/11/16,43,M,white,Lealman,FL
+David Leroy Thelen,23/11/16,43,M,white,Holland Township,MI
+Kajuan Raye,23/11/16,19,M,black,Chicago,IL
+Don Fitzgerald White,24/11/16,45,M,Other,Jackson,TN
+Cleotha Mitchell,25/11/16,37,M,black,Chicago,IL
+Jerome Chris Harmon,25/11/16,23,M,black,Hattiesburg,MS
+Carlos Valencia,25/11/16,26,M,hispanic,Tucson,AZ
+Derek Adame,26/11/16,20,M,hispanic,Surprise,AZ
+Walter R. Echols,27/11/16,50,M,white,Olathe,KS
+Norman J. Strobel,27/11/16,59,M,white,Naples,ME
+Richard Grimes,27/11/16,33,M,black,Chicago,IL
+Terrell Walker,27/11/16,48,M,black,Baton Rouge,LA
+Abdul Razak Ali Artan,28/11/16,18,M,Other,Columbus,OH
+Pablo Renato Cartagena,28/11/16,23,M,hispanic,Los Angeles,CA
+Irecas Valentine,28/11/16,41,M,black,Hickory,NC
+Michael McInnis,29/11/16,41,M,white,Lynn,MA
+Toby Cummins,29/11/16,55,M,white,Friendswood,TX
+Bradley King,29/11/16,29,M,white,Avon,IN
+Alexander Chance Partain,29/11/16,31,M,white,Iva,SC
+David K. Crosby-Dowdy,30/11/16,25,M,black,Kansas City,MO
+Bruce Randall ""Zeus"" Johnson,01/12/16,38,M,black,Tacoma,WA
+Jose N. Barron Gomez,01/12/16,,M,hispanic,Tucson,AZ
+Quinton Phillips,01/12/16,83,M,white,Dover,AR
+Dylan M. Dalzell,02/12/16,22,M,white,Simpsonsville,KY
+Derek Lynn Scott,02/12/16,33,M,white,Tuscumbia,AL
+Josh Dunne,02/12/16,36,M,white,Las Cruces,NM
+Isreal Flores,03/12/16,38,M,Other,Metairie,LA
+Saif Nasser Mubarek Alameri,04/12/16,26,M,asian,Hudson,OH
+Norman Gary,04/12/16,29,M,black,Elkhart,IN
+Richard R. Jones,06/12/16,55,M,white,Hutchinson,KS
+Westley Daum,06/12/16,47,M,white,Orange City,FL
+Steven Wayne Liffel,06/12/16,52,M,white,Portland,OR
+Wayne Donald Dorsey,06/12/16,49,M,white,Fruitland Park,FL
+Mark Anthony Hicks,07/12/16,31,M,black,Fayetteville,NC
+Keelan Charles Murray,07/12/16,37,M,white,Dallas,TX
+Redrick Jevon Batiste,07/12/16,37,M,black,Houston,TX
+Daniel Riedmann,07/12/16,36,M,white,Sioux City,IA
+Steven Garrett Ward,07/12/16,20,M,Other,Avella,PA
+TK TK,08/12/16,,M,Other,Allen,TX
+Stephen Joshua Whitney,09/12/16,30,M,Other,Keaau,HI
+Brent Quinn,09/12/16,,M,white,Leland,NC
+Scott MacIntosh,09/12/16,35,M,white,Forks Township,PA
+Waltki Williams,10/12/16,35,M,black,Sumter,SC
+Samson G. Varner,10/12/16,36,M,white,Greenwood,IN
+Timothy Case,11/12/16,53,M,white,York,NE
+Randy Lee Cumberledge,11/12/16,39,M,white,Fairmont,WV
+Jose Angel Vallarta,11/12/16,30,M,hispanic,Laredo,TX
+Amber Lewis,11/12/16,44,F,white,Bullhead City,AZ
+Gary Leon Herd,11/12/16,24,M,white,Medicine Lodge,KS
+Francisco Serna,12/12/16,73,M,hispanic,Bakersfield,CA
+Rainer Tyler Smith,12/12/16,31,M,white,Fort Valley,GA
+Kenneth Robledo,12/12/16,28,M,black,Philadelphia,PA
+Lavar Montray Douglas,13/12/16,18,M,black,Baltimore,MD
+Earl Labon Eubanks,13/12/16,32,M,black,Hampton,GA
+Robert James Hess,15/12/16,60,M,white,Hacienda Heights,CA
+Jeremiah N. Anderson,16/12/16,36,M,Other,Dallas,OR
+Jimmy Lee Lawson,17/12/16,48,M,white,Arlington,TN
+Fidel Barrios,17/12/16,33,M,hispanic,Los Angeles,CA
+Chassady LeClair,17/12/16,44,M,native_american,Everett,WA
+Ryan Joseph,18/12/16,20,M,black,Los Angeles,CA
+Paul Kolar,18/12/16,37,M,white,Ridgefield,WA
+Ronald Roy Massengale,18/12/16,72,M,white,Tulsa,OK
+Roy Minton,19/12/16,52,M,white,Granite Falls,NC
+Nick Hamilton,20/12/16,31,M,Other,Hemet,CA
+Martin Gomez,20/12/16,46,M,hispanic,Pharr,TX
+TK TK,20/12/16,,M,Other,Brawley,CA
+Ian Shea King,21/12/16,31,M,Other,Ponca City,OK
+Colton Calaway,21/12/16,25,M,white,Burns Flat,OK
+William Newman,21/12/16,46,M,Other,Knox,IN
+Raymond Salaiz,21/12/16,38,M,hispanic,Reno,NV
+Benjamin Ortiz,21/12/16,25,M,Other,Fayetteville,AR
+TK TK,21/12/16,,M,Other,Stockton,CA
+Matthew Blake Richardson,21/12/16,27,M,white,Saraland,AL
+Anthony Lovell Eddington,21/12/16,24,M,black,Coalinga,CA
+Terrence Thomas,22/12/16,19,M,black,Capitol Heights,MD
+Michael Tyler Jacques,23/12/16,31,M,white,Bend,OR
+Stanley Eversol,23/12/16,55,M,Other,Palm Harbor,FL
+TK TK,23/12/16,,M,Other,El Monte,CA
+Daquan Antonio Westbrook,24/12/16,18,M,black,Charlotte,NC
+Miriam Ann Savino,24/12/16,53,F,white,Lake Wales,FL
+TK TK,24/12/16,,M,Other,Gadsden,AL
+Zhonghua Li,24/12/16,48,M,asian,Pico Rivera,CA
+Gerald Hall,25/12/16,29,M,black,Washington,DC
+James Tylka,25/12/16,30,M,white,King City,OR
+Joseph Garcia,25/12/16,33,M,Other,Desha,AR
+Michael Alan Altice,25/12/16,61,M,white,Middleburg,FL
+Dustin Kirk,27/12/16,35,M,Other,Grass Valley,CA
+Judy Boardman,27/12/16,71,F,white,Pearland,TX
+Alfonso Lopez,27/12/16,41,M,hispanic,North Riverside,IL
+Jake Childers,27/12/16,36,M,white,Campbellton,TX
+Christopher Blake Tucker,28/12/16,28,M,Other,Spring Hill,TN
+James L. Rich,29/12/16,52,M,Other,Chestertown,MD
+Jamal Rollins,30/12/16,21,M,black,Miami,FL
+TK TK,30/12/16,,M,Other,Pensacola,FL
+Dustin Selby,30/12/16,31,M,Other,Phoenix,AZ
+Chase Anthony Tuseth,31/12/16,33,M,white,Mankato,MN
+Ricky Whidden,31/12/16,46,M,white,Loxahatchee,FL
+Jason Michael Robison,31/12/16,32,M,white,Huntingdon County,PA
+John McLaughlin,01/01/17,42,M,white,Springfield,OH
+Trevon Johnson,01/01/17,17,M,black,Villa Park,IL
+James E. Lewis,01/01/17,44,M,black,Springfield,MO
+Chad Erik Roberts,01/01/17,35,M,white,Woodstock,GA
+Juan Carlos Cuadra,01/01/17,23,M,hispanic,Houston,TX
+Mark Guirguis,01/01/17,21,M,black,Allen,TX
+Dale Hightower,03/01/17,53,M,white,Gilmer,TX
+James Owens,03/01/17,63,M,black,Brooklyn,NY
+Joshua Martino,04/01/17,18,M,white,Brooklyn,NY
+Ruben Randolph,04/01/17,51,M,black,Pomona,CA
+Welby O\'Dell Mullins,04/01/17,64,M,white,Lancaster,KY
+Richard A. Jackson,04/01/17,45,M,white,English,IN
+Luis Vargas,05/01/17,20,M,hispanic,Dinuba,CA
+Randy Wayne Cole,05/01/17,41,M,white,Monteagle,TN
+Sean Ryan Hake,06/01/17,23,M,white,Sharon,PA
+Jamal Parks,06/01/17,32,M,black,Deerfield,IL
+Daniel Scott Giberson,07/01/17,25,M,white,Princeton,WV
+Travis Edward Baker,07/01/17,42,M,white,Fairland,OK
+William Tucker Mathis,07/01/17,41,M,white,Elkridge,MD
+Hector Navarrete,07/01/17,31,M,hispanic,Northglenn,CO
+Carlos A. Cruz,07/01/17,50,M,hispanic,Independence,MO
+Gilbert Zambronio-Lovato,07/01/17,38,M,hispanic,Albuquerque,NM
+Jason Aldridge,08/01/17,44,M,white,Cumming,GA
+JR Williams,09/01/17,38,M,black,Phoenix,AZ
+Davion Henderson,09/01/17,21,M,black,St. Louis,MO
+Michael Rogers,10/01/17,32,M,white,Los Angeles,CA
+Darrion Barnhill,10/01/17,23,M,black,Reagan,TN
+Ronnie Johnson,11/01/17,41,M,white,Austin,MN
+Hafez Abousamra,11/01/17,41,M,Other,Lake Elsinore,CA
+Jose A. Fernandez-Ventura,11/01/17,38,M,hispanic,Camden,NJ
+Kevin Ernest Tree,12/01/17,54,M,white,Ocala,FL
+Jamison Christopher Anderson,12/01/17,20,M,native_american,Vineland,MN
+Rodney L. Hoback,12/01/17,26,M,white,Pearisburg,VA
+Cameron Johnson,13/01/17,29,M,Other,Kahuku,HI
+Scott Laurance Gilpin,14/01/17,47,M,white,Austin,TX
+Jahlire Nicholson,14/01/17,28,M,black,New York,NY
+Eric David Anderson,15/01/17,48,M,white,Azusa,CA
+Sinuon Pream,15/01/17,37,F,asian,Long Beach,CA
+Herbert Johnson,15/01/17,34,M,black,Chicago,IL
+Dexter Martin Dumarce,15/01/17,33,M,white,Spokane,WA
+David Wesley Carroll,16/01/17,36,M,white,Tyrone,GA
+Charles Christopher McClure,16/01/17,43,M,white,Fulton,KY
+Mohammad Azim Doudzai,16/01/17,32,M,asian,Herndon,VA
+Christopher Dalton Sexton,17/01/17,29,M,white,Soddy-Daisy,TN
+Dominic Hodges,17/01/17,39,M,hispanic,Twentynine Palms,CA
+Marlon Joel Rodas-Sanchez,18/01/17,16,M,hispanic,Salinas,CA
+Stoney McJunkin,18/01/17,40,M,white,Watts,OK
+Genevive Dawes,18/01/17,21,F,white,Dallas,TX
+Daniel Darnell Stroughter,18/01/17,50,M,white,Los Angeles,CA
+Marquis Thomas,18/01/17,19,M,black,Gary,IN
+Melvin DeLong,18/01/17,28,M,native_american,Grand Forks,ND
+Elijah Smith,19/01/17,25,M,white,Florissant,MO
+William D. Fisher,19/01/17,49,M,white,Woodford,VA
+Christopher Garza,19/01/17,44,M,hispanic,Fritch,TX
+Gino Martin Palazzolo,20/01/17,39,M,white,Gainesville,FL
+Ronnie Lee Shorter,21/01/17,44,M,black,Greenville,MS
+Paul Carr Palmer,21/01/17,50,M,white,Jean,NV
+Jon M. Alspaugh,22/01/17,57,M,white,Waldoboro,ME
+Christopher Thompkins,22/01/17,57,M,black,Pittsburgh,PA
+Jorge Victor,22/01/17,33,M,hispanic,Carson,CA
+Angel Ramos,23/01/17,21,M,hispanic,Vallejo,CA
+Gary Mark Wigley,23/01/17,52,M,white,Brooklet,GA
+Daniel D. Rogers,23/01/17,27,M,white,Springfield,IL
+Bruce Altenburger,23/01/17,60,M,white,Wilmington,DE
+Armond Brown,23/01/17,25,M,black,Kenner,LA
+Josue Gallardo,24/01/17,34,M,hispanic,Atascadero,CA
+Dakota A. Lukecart,24/01/17,22,M,white,Sugar Creek,MO
+Arties Manning,24/01/17,26,M,black,New Orleans,LA
+Antonio Arturo Perez Garcia,24/01/17,27,M,hispanic,Bakersfield,CA
+Jeremy Lopez-Robledo,24/01/17,29,M,hispanic,Las Cruces,NM
+Jonathan David Sper,24/01/17,30,M,white,Algoma Township,MI
+Jose Efrain Rodriguez,24/01/17,18,M,hispanic,Lancaster City,PA
+Ramon Milanez,24/01/17,32,M,hispanic,Kuna,ID
+Micah R. Lambert,25/01/17,37,M,white,Oxford,AL
+Kevin Darnell Washington,25/01/17,54,M,black,Southaven,MS
+Donovan Paul Scheurich,25/01/17,50,M,white,Millston,WI
+Josue Javier Diaz,26/01/17,28,M,hispanic,Charlotte,NC
+Kerry Lee Coomer,26/01/17,59,M,white,Overlea,MD
+Deaundre Phillips,26/01/17,24,M,black,Atlanta,GA
+William Brigham,26/01/17,34,M,white,Madison Township,OH
+Eduardo Hernandez,27/01/17,25,M,hispanic,Alhambra,CA
+Matthew Zank,28/01/17,48,M,white,Eau Claire,WI
+Bradley Joseph Szacaks,28/01/17,45,M,white,Apache Junction,AZ
+Gerardo Coronado,28/01/17,25,M,hispanic,Fort Stockton,TX
+Mi\'Chance Dunlap-Gittens,28/01/17,17,M,black,Des Moines,WA
+Val Thomas,29/01/17,53,M,Other,Oakdale,CT
+Steve Salgado,29/01/17,18,M,hispanic,Santa Ana,CA
+Marvin Washington,30/01/17,50,M,black,Kiowa,OK
+Jeremy Dowell,30/01/17,36,M,white,Lynnwood,WA
+Refugio Alvarez,30/01/17,45,M,hispanic,Fresno,CA
+Spencer Herckt,30/01/17,42,M,white,Modesto,CA
+TK TK,31/01/17,,M,black,Hollywood,CA
+Tavis Crane,01/02/17,23,M,black,Arlington,TX
+Michael Russo,01/02/17,31,M,black,Highland,CA
+Miguel Angel Silva,02/02/17,18,M,hispanic,Wichita Falls,TX
+Kris Kristl,02/02/17,26,M,white,Geneva,WI
+Michael Sword,02/02/17,57,M,white,Orange Park,FL
+Jose Gonzales Lera,03/02/17,27,M,hispanic,Olympic Valley,CA
+Yia Lee,03/02/17,41,M,asian,Panhandle,TX
+William David Whetstone,03/02/17,33,M,white,Hickory,NC
+Jamake Cason Thomas,03/02/17,22,M,black,Rowland,NC
+Daniel McMasters,03/02/17,38,M,white,Grafton,WV
+Marco A. Gomez,03/02/17,26,M,hispanic,Forest Park,IL
+Daniel Loren Rucker,03/02/17,45,M,white,Irving,TX
+Peter Torres,04/02/17,23,M,hispanic,Moultrie,GA
+Johnnie J. Harris,04/02/17,68,M,black,Kansas City,MO
+Thomas Scott Henry,04/02/17,56,M,white,DeLand,FL
+Nana Adomako,05/02/17,45,M,black,Fremont,CA
+Shelly Porter,05/02/17,41,M,black,Englewood,OH
+Andrew Byrd,05/02/17,33,M,hispanic,Pueblo,CO
+Jerome Allen,06/02/17,22,M,black,Jacksonville,FL
+Cole Wooley,06/02/17,50,M,black,Commerce City,CO
+Gerardo Vasquez,06/02/17,52,M,hispanic,Santa Monica,CA
+Alex Christopher Davis,07/02/17,18,M,white,Jackson County,AL
+Bradley Nelson,07/02/17,35,M,white,Mt. Pleasant,TN
+Curtis Jamal Deal,07/02/17,18,M,black,Baltimore,MD
+Richard Latimer,07/02/17,34,M,white,Howland Township,OH
+Kenneth B. Huntzinger,07/02/17,51,M,white,Richmond,KY
+Donald Parker,08/02/17,29,M,white,Brookville,IN
+Henry James Hunter,08/02/17,34,M,native_american,Anadarko,OK
+Chad Robertson,08/02/17,25,M,black,Chicago,IL
+Vincent Palma,09/02/17,26,M,white,Geneva Township,OH
+Juan Salinas,09/02/17,33,M,hispanic,Lake Stevens,WA
+Quanice Derrick Hayes,09/02/17,17,M,black,Portland,OR
+TK TK,09/02/17,,M,Other,Crownpoint,NM
+Justin Burton,10/02/17,25,M,white,Vancouver,WA
+Jocques Scott Clemmons,10/02/17,31,M,black,Nashville,TN
+Kadhar Bailey,10/02/17,25,M,white,Vassalboro,ME
+Ambroshia Fagre,10/02/17,18,F,white,Vassalboro,ME
+Michelle Robey,10/02/17,55,F,white,Chicago,IL
+James Stephen McMullen,10/02/17,45,M,white,Bethany,OK
+Carlos Keith Blackman,10/02/17,25,M,black,Greensboro,NC
+Darryl L. Fuqua,10/02/17,23,M,black,Bridgeton,NJ
+Jason Robert Mendez,11/02/17,37,M,white,Greenville,SC
+Pekelo Sanchez,11/02/17,33,M,asian,Aiea,HI
+Alonzo E. Ashley,11/02/17,27,M,black,Kansas City,MO
+William A. Young,11/02/17,32,M,white,Louisville,KY
+TK TK,12/02/17,,M,Other,Terrell,TX
+Willard Eugene Scott,12/02/17,31,M,black,Durham,NC
+Bryan Devin Carreno,12/02/17,26,M,hispanic,Santa Barbara,CA
+Brandon S. Lambert,13/02/17,32,M,white,Knoxville,TN
+Drey Krause,13/02/17,53,M,white,Golden Shores,AZ
+Raynard Burton,13/02/17,19,M,black,Detroit,MI
+Michael Lee Morris,14/02/17,53,M,white,Columbus,OH
+David Zimmerman,14/02/17,35,M,white,Vincennes,IN
+Steven C. Oliger,14/02/17,64,M,white,Shelbyville,IN
+Kenneth Lee Bailey,15/02/17,24,M,black,Durham,NC
+Andrew McClendon,15/02/17,33,M,white,Cape Girardeau,MO
+Mauro Garnica,15/02/17,55,M,hispanic,Newman,CA
+Kadeem Torres,16/02/17,17,M,black,Brooklyn,NY
+Joseph Tamayo,16/02/17,48,M,hispanic,San Antonio,TX
+Jimmy Briggs,16/02/17,21,M,black,Gardena,CA
+Jonathon  Daniel Simmons,16/02/17,22,M,Other,Douglas City,CA
+Joshua Henry,17/02/17,30,M,white,Grand Prarie,TX
+David English,17/02/17,34,M,white,Tulsa,OK
+Jean R. Valescot,17/02/17,35,M,black,Big Lake,AK
+Jesse Enjaian,17/02/17,32,M,white,Oakland,CA
+Chance David Baker,18/02/17,22,M,black,Portland,ME
+Keo Crockett,18/02/17,46,M,black,Efland,NC
+Christopher Carter,19/02/17,27,M,black,Kent,OH
+Sergio Reyes,19/02/17,18,M,hispanic,New York,NY
+Kyle Riggs,19/02/17,33,M,white,Bull Shoals,AR
+Manuel Encinas,19/02/17,26,M,hispanic,Tucson,AZ
+Jason Fanning,20/02/17,27,M,white,St. Joseph,MO
+Taylor Hodge,20/02/17,26,M,white,Brooksville,FL
+Douglas Michael Smith,21/02/17,51,M,white,Beaverton,OR
+Don Clark,21/02/17,63,M,black,St. Louis,MO
+Nicolas Sanchez,21/02/17,38,M,hispanic,Roy,UT
+Bartolo Justice Sambrano,21/02/17,25,M,hispanic,Ogden,UT
+Misael Macias Cano,21/02/17,39,M,hispanic,Colorado Springs,CO
+Medger Blake,22/02/17,41,M,black,Conroe,TX
+Kyle Copson,22/02/17,26,M,white,Princeton,WV
+Morgan London Rankins,22/02/17,30,F,black,Austin,TX
+David Lee Montano,23/02/17,33,M,hispanic,Newton,KS
+Kenneth Robertson,23/02/17,54,M,Other,Fairfax,OK
+Jimmie Patton,23/02/17,38,M,white,Columbus,OH
+Steven Valenzuela,23/02/17,24,M,hispanic,Reno,NV
+Timothy Lionel Williams,23/02/17,47,M,black,Washington,DC
+Michael T. Stoudt,24/02/17,62,M,white,Reading,PA
+Joey Isgrigg,24/02/17,30,M,white,London,KY
+Jacqueline Cheyanne Johnson,24/02/17,33,F,white,Lake Jackson,TX
+Lorenzo Antoine Cruz,25/02/17,23,M,black,Rocklin,CA
+William Dwayne Darby,25/02/17,39,M,white,Lumpkin,GA
+Jacob Taulbee,26/02/17,,M,white,Englewood,FL
+Evin Sanna Olsen,26/02/17,46,F,white,Ripon,CA
+Barry Michael Zumwalt,26/02/17,36,M,white,Aragonite,UT
+James Leroy Marker,26/02/17,66,M,white,Floral City,FL
+Joey J. Bridges,27/02/17,27,M,white,Shelby,NC
+Shawn M. Igers,27/02/17,40,M,white,Corning,WI
+Earl Riley,28/02/17,25,M,black,Houston,TX
+Christopher Redding,28/02/17,20,M,black,Orlando,FL
+Jose Olivares,28/02/17,43,M,Other,Houma,LA
+Epthen Lamont Johnson,01/03/17,40,M,black,Lufkin,TX
+John Hall,02/03/17,33,M,white,Rib Mountain,WI
+Isidro Bazan Jr,02/03/17,34,M,hispanic,San Marcos,CA
+Michael Cisneros,02/03/17,27,M,hispanic,Phoenix,AZ
+Rafael Navarro-Garcia,02/03/17,25,M,hispanic,Reno,NV
+Ramon Andrade,02/03/17,37,M,hispanic,Paterson,NJ
+Michael Kocher,03/03/17,32,M,white,Englewood,CO
+Dave Phoenix,03/03/17,25,M,native_american,Lemoore,CA
+George Lee Seeton,04/03/17,38,M,white,Oklahoma City,OK
+Joseph Scott Inabinet,04/03/17,50,M,white,Fountain Inn,SC
+Alejandro Valencia Mendez,04/03/17,70,M,hispanic,Los Angeles,CA
+Edward Manning,04/03/17,26,M,white,Cabazon,CA
+Roy Dale Evans,07/03/17,,M,white,Medina,OH
+Dennis Todd Rogers,07/03/17,41,M,black,Ladera Heights,CA
+Frank W. Wratny,08/03/17,91,M,white,Union Township,PA
+TK TK,08/03/17,,M,Other,Riverside,CA
+Iaroslav Mosiiuk,08/03/17,25,M,white,Charlotte,NC
+Jesus Alberto Geney,09/03/17,24,M,hispanic,Santa Clara,CA
+Steven Schiltz,09/03/17,29,M,white,Huntington Beach,CA
+Damon Seitz,10/03/17,40,M,white,Escondido,CA
+Mark Robert Carlberg,11/03/17,51,M,white,Midlothian,TX
+Brandon Wiley,11/03/17,30,M,black,East Baton Rouge,LA
+Michael Anthony Perez,12/03/17,33,M,hispanic,Orange,CA
+Manuel Gonzalez,12/03/17,28,M,hispanic,Bellingham,WA
+Luke O. Stewart,13/03/17,23,M,black,Euclid,OH
+Noel Aaron Russell,13/03/17,23,M,white,Napa,CA
+Rashad Daquan Opher,13/03/17,20,M,black,Woodlawn,MD
+Christopher Apostolos,14/03/17,56,M,white,Toms River,NJ
+Ryan L. Rosa,14/03/17,36,M,white,Fife,WA
+Alexander Meltz,14/03/17,18,M,white,Westminster,CO
+Shawn Anthony Dumitras,14/03/17,43,M,white,Panama City Beach,FL
+Elena ""Ebbie"" Mondragon,14/03/17,16,F,hispanic,Hayward,CA
+Cordale Quinn Handy,15/03/17,29,M,black,St. Paul,MN
+Todd Munson,15/03/17,25,M,white,Phoenix,AZ
+Frederick Ricardo Brown,16/03/17,34,M,black,Warren,MI
+Jermaine Claybrooks,16/03/17,32,M,black,Milwaukee,WI
+Patrick Earl Gatson,16/03/17,32,M,black,Fayetteville,NC
+Daniel Donarski,16/03/17,58,M,white,Deltona,FL
+Rodney James Hess,16/03/17,36,M,black,Alamo,TN
+Brentant M. Lahey,17/03/17,25,M,white,Presque Isle,ME
+Nancy Jane Lewellyn,17/03/17,59,F,white,Lakeland,TN
+Desmond Phillips,17/03/17,25,M,black,Chico,CA
+Kevin C. Perry,18/03/17,25,M,white,Wichita,KS
+Benjamin Christian Barnes,18/03/17,42,M,white,Boise,ID
+Jason Dennis Watkins,18/03/17,36,M,white,Cedartown,GA
+Clifton Knickmeyer,19/03/17,59,M,white,Affton,MO
+Alteria Woods,19/03/17,21,F,black,Gifford,FL
+Trevor Allen Brice Gingras,19/03/17,19,M,white,Cape Canaveral,FL
+Mario Simoes,19/03/17,45,M,hispanic,DeLand,FL
+TK Tk,19/03/17,,M,Other,Desert Edge,CA
+Charles Harris,22/03/17,42,M,white,Booneville,KY
+Don Johnson,22/03/17,27,M,black,Crowley,LA
+Nengmy Vang,22/03/17,45,M,asian,Weston,WI
+William Stokes,23/03/17,,M,black,Des Moines,WA
+Eddie Davis,23/03/17,42,M,black,Sheridan,AR
+Francisco Valdez,23/03/17,24,M,hispanic,Phoenix,AZ
+Reno Joseph Owens,24/03/17,39,M,black,Baltimore,MD
+Austin Tyler Macon,24/03/17,18,M,white,Cottonwood,CA
+Matthew Gambaro,24/03/17,26,M,hispanic,Cisco,TX
+Fred Barragan,25/03/17,35,M,hispanic,Los Angeles,CA
+Paul Parienlla,26/03/17,53,M,white,Anderson,CA
+David Eric Ufferman,26/03/17,56,M,white,Delray Beach,FL
+Michael Hornibrook,26/03/17,54,M,white,Little Rock,AR
+Justin Quincy Smith,26/03/17,36,M,white,Wasilla,AK
+Steven Hopwood,27/03/17,51,M,white,Lewisburg,TN
+Pryor Spencer Bailey,27/03/17,45,M,white,Columbus,MS
+Richard Alexander Tilley,27/03/17,28,M,white,Montgomery Village,MD
+Peter J. Doffin,28/03/17,36,M,white,Lafayette,IN
+Lee Pat Milks,28/03/17,73,M,white,Manistee,MI
+Daniel Hendrix,29/03/17,26,M,white,Chattanooga,TN
+Troy Boyle,29/03/17,41,M,white,Stockton,IL
+Doyle Wayne Johnson,29/03/17,59,M,white,Byars,OK
+Leroy Brown,29/03/17,28,M,black,New Castle,DE
+Fred Ratliff,29/03/17,45,M,white,Lawrenceburg,KY
+Dennis Wasson,29/03/17,27,M,white,Whitewright,TX
+Christopher Angelo Pizzichetta,30/03/17,46,M,white,Cranbury Township,NJ
+Marcus Williams,01/04/17,,M,Other,Cantonment,FL
+Phosowath Sengphong,01/04/17,30,M,asian,New Iberia,LA
+Jose Antonio Hernandez,03/04/17,46,M,hispanic,Pendleton,SC
+Rogelio Vidal Landa,04/04/17,47,M,hispanic,Bakersfield,CA
+Michael Maldonado,04/04/17,32,M,hispanic,Houston,TX
+Stephen Connard Ferry,04/04/17,65,M,white,Napa,CA
+Michael Alcaraz,05/04/17,19,M,hispanic,Goshen,IN
+Austin Dakota Snyder,05/04/17,22,M,white,Little Rock,AR
+Christopher Wade,06/04/17,39,M,black,Westerville,OH
+Benjamin Ailstock,06/04/17,38,M,white,Madison Township,OH
+Glenn Watenpool,06/04/17,68,M,white,Bradenton,FL
+Richard Xavier Summers,06/04/17,49,M,black,Largo,FL
+Kenneth Francis,06/04/17,37,M,black,Newark,NJ
+Jeffrey Lynn Curry,07/04/17,33,M,asian,Kyle,SD
+Gregory Kever,08/04/17,25,M,white,Eau Claire,WI
+Jose Gonzales Rendon,09/04/17,36,M,hispanic,Santa Paula,CA
+William Baker,09/04/17,36,M,Other,Ontario,CA
+Jeffrey Findlay,10/04/17,30,M,white,Cleveland,OH
+TK TK,10/04/17,39,M,Other,Houston,TX
+Zelalem Eshetu Ewnetu,12/04/17,28,M,black,Los Angeles,CA
+Erik Pamias,13/04/17,28,M,white,Avondale,AZ
+Charles Johnston,13/04/17,25,M,white,Udall,KS
+Thomas Gezotis,13/04/17,57,M,Other,Suffield,CT
+Charles Spands,14/04/17,35,M,white,Spanaway,WA
+Ivan Wilson,14/04/17,24,M,native_american,Mandan,ND
+TK TK,14/04/17,,M,Other,Paterson,NJ
+Olugbalah Ridley,15/04/17,33,M,black,West Memphis,AR
+David Airth,15/04/17,56,M,white,Newport Beach,CA
+Frederick H. Hall,15/04/17,56,M,white,Colebrook Township,OH
+Isaiah Murrietta-Golding,15/04/17,16,M,hispanic,Fresno,CA
+Darren Jahnke,16/04/17,47,M,white,Vadnais Heights,MN
+Michael Zennie Dial II,17/04/17,33,M,white,Clarksville,TN
+Casey Desper,18/04/17,32,M,white,Brandywine,WV
+Keith Price,19/04/17,21,M,black,Wilmington,DE
+Marion Lee Holliday,20/04/17,64,M,white,Logan County,OK
+Damarius Butts,20/04/17,19,M,black,Seattle,WA
+Ray Valdez,20/04/17,55,M,hispanic,San Antonio,TX
+Jose Trejo,20/04/17,,M,hispanic,Hardeeville,SC
+Brandon Pequeno,20/04/17,25,M,hispanic,Glendale,AZ
+Sariah Marie Lane,20/04/17,17,F,white,Glendale,AZ
+Chance Rickie Thompson,21/04/17,25,M,white,West Linn,OR
+Joseph Sin,22/04/17,43,M,asian,Yuba City,CA
+William D. Spates,22/04/17,39,M,black,Portage,IN
+Michael Wilson-Salzl,22/04/17,24,M,white,Hamilton,OH
+Wayne Noel Simard,23/04/17,70,M,white,Prescott,AZ
+Daezion Turner,24/04/17,15,M,Other,Killeen,TX
+Robert Becker,24/04/17,79,M,white,Stewartstown,PA
+Kendell Wilson,24/04/17,16,M,black,Houston,TX
+Jacy Kevin McManus,24/04/17,35,M,white,Wolf Creek,OR
+TK TK,25/04/17,24,M,Other,Newark,NJ
+Fred Cardenas,25/04/17,53,M,hispanic,Fort Worth,TX
+Juan Manuel Avilla,25/04/17,20,M,hispanic,Bellflower,CA
+Gavin Williams,25/04/17,27,M,black,Lizella,GA
+Selwyn Aubrey Hall,26/04/17,57,M,black,Jacksonville,FL
+Charles Bossinger,26/04/17,53,M,white,Lewistown,PA
+Jason Thomas Christian,26/04/17,32,M,white,Columbus,OH
+Burgon Sealy,27/04/17,26,M,black,Middletown,DE
+Tim A. Holmgren,27/04/17,53,M,white,Rapid City,SD
+Avery Richard,28/04/17,32,M,black,Atlanta,GA
+Luis Fernando Pacheco,28/04/17,25,M,hispanic,San Mateo,CA
+Jordan Edwards,29/04/17,15,M,black,Balch Springs,TX
+Gene Bernhardt,29/04/17,59,M,white,Papaaloa,HI
+Caleb Jackson,29/04/17,35,M,black,Newport News,VA
+Andrew James Lucero,29/04/17,33,M,Other,Eldorado,NM
+Devin Hawkins,30/04/17,32,M,white,Tom,OK
+Peter Raymond Selis,30/04/17,49,M,white,University City,CA
+James Edward Ray,30/04/17,46,M,black,Detroit,MI
+Joseph William Alain,01/05/17,25,M,white,Conroe,TX
+Rodney Henderson,02/05/17,48,M,black,Irving,TX
+Jason Sebastian Roque,02/05/17,20,M,hispanic,Austin,TX
+TK TK,03/05/17,,M,Other,San Jose,CA
+Mirza Tatlic,03/05/17,24,M,white,San Jose,CA
+Malik Carey,03/05/17,18,M,black,Grand Rapids,MI
+William Dean,03/05/17,67,M,white,Peachtree City,GA
+Nicholas Flusche,03/05/17,26,M,white,San Francisco,CA
+Lucille Espinosa,04/05/17,54,F,Other,Katy,TX
+Jacob Peterson,06/05/17,15,M,white,San Diego,CA
+Steven Price,07/05/17,62,M,white,Las Vegas,NV
+Landon Nobles,07/05/17,24,M,black,Austin,TX
+Cedric Jamal Mifflin,07/05/17,27,M,black,Phenix City,AL
+Jose Hernandez-Rossy,07/05/17,26,M,hispanic,Buffalo,NY
+Mikel Laney McIntyre,08/05/17,32,M,black,Rancho Cordova,CA
+Anthony David Soderberg,08/05/17,29,M,white,Los Angeles,CA
+Jayson Negron,09/05/17,16,M,hispanic,Bridgeport,CT
+Terry Percy Campbell,09/05/17,25,M,black,Jacksonville,FL
+TK TK,09/05/17,,M,Other,Westminster,CO
+John Bittle,09/05/17,39,M,white,Lexington,SC
+Scott N. Bloomfield,09/05/17,34,M,white,Tiffin,OH
+Ian Thomas Little,09/05/17,36,M,white,Brighton Township,MI
+Terrell Kyreem Johnson,10/05/17,24,M,black,Portland,OR
+Robin White,10/05/17,50,F,black,St. Louis,MO
+Jeroen Peter Koornwinder,10/05/17,50,M,white,Barona Indian Reservation,CA
+TK TK,11/05/17,,M,hispanic,Arlington,TX
+Ronald Singletary,12/05/17,51,M,black,Philadelphia,PA
+Ryan Lowell,12/05/17,30,M,white,Billings,MT
+Jonathan David Victor,12/05/17,35,M,white,Baldwin County,AL
+Phillip O\'Shea,12/05/17,46,M,white,Jupiter,FL
+Maxwell Holt,13/05/17,37,M,white,West Allis,WI
+Clarence E. Coats,13/05/17,41,M,black,Columbia,MO
+David Jay Juarez,14/05/17,41,M,hispanic,Kingman,AZ
+James A. Burton,14/05/17,48,M,white,Pulaski,VA
+Jonie Block,15/05/17,27,F,black,Phoenix,AZ
+Jaison Fitzgerald,15/05/17,29,M,black,Richmond,VA
+Buford Shane Whitson,15/05/17,47,M,white,Johnson City,TN
+TK TK,15/05/17,,M,Other,Long Beach,CA
+Emmanuel Ibarra,15/05/17,34,M,Other,Del Mar,CA
+Keith Andrew Chesser,15/05/17,48,M,white,Wewoka,OK
+Isabelle Duval,16/05/17,41,F,white,Washington,DC
+TK TK,16/05/17,25,M,Other,Tempe,AZ
+Edwin Fuentes,16/05/17,24,M,hispanic,Tustin,CA
+Marshall Barrus,16/05/17,38,M,white,Three Forks,MT
+Daniel George Boak,17/05/17,28,M,white,Arlington,VA
+Anthony Paul Ardo,20/05/17,47,M,white,Lower Mount Bethel,PA
+Roger Bubar,20/05/17,65,M,white,Belgrade,ME
+Shannon Edward Estill,20/05/17,58,M,white,Pleasanton,CA
+Jimmie Montel Sanders,21/05/17,33,M,black,Appleton,WI
+Joseph M. Hodgin,21/05/17,43,M,white,Allentown,PA
+Ricco Devante Holden,21/05/17,24,M,black,Converse,LA
+Carlos Garcia Petrovich,21/05/17,37,M,hispanic,Orlando,FL
+Aaron M. Thompson,22/05/17,,M,white,Mountain Home,ID
+Jorge Alberto Fuentes,23/05/17,21,M,hispanic,Glendale,AZ
+Michael Anthony Bonini,23/05/17,65,M,white,Pahrump,NV
+John Eno,23/05/17,59,M,white,San Francisco,CA
+Albert Gagnier,23/05/17,74,M,white,Knoxville,TN
+Hayden J. Stutz,24/05/17,24,M,white,Canton,OH
+TK TK,24/05/17,,M,hispanic,Los Angeles,CA
+Shawn Buck,25/05/17,23,M,white,Fairbanks,AK
+Hector Gamboa,26/05/17,59,M,hispanic,San Rafael,NM
+Jamie J. Robinson,26/05/17,33,M,Other,St. Louis,MO
+Joseph Zimmerman,26/05/17,34,M,white,Tucson,AZ
+Ron Harlan Lewallen,27/05/17,30,M,white,Oneida,TN
+Eduardo Valencia,27/05/17,,M,Other,Austell,GA
+TK TK,28/05/17,,M,Other,Miami,FL
+Shaquian Tyrone Johnson,28/05/17,22,M,black,Cary,NC
+Francis de la Cruz,28/05/17,35,M,Other,San Jose,CA
+Chad Dionne,29/05/17,37,M,white,Arundel,ME
+Joseph Godinez,29/05/17,20,M,hispanic,Vacaville,CA
+Larry Warren Kipps,29/05/17,62,M,Other,Gerrardstown,WV
+Roman Jade Carrillo,30/05/17,18,M,hispanic,Salt Lake City,UT
+James Gleason,31/05/17,24,M,white,Hesperia,CA
+James Daniel Hill,31/05/17,17,M,white,Centennial,CO
+Francisco Suarez-Madonado,01/06/17,27,M,hispanic,Las Vegas,NV
+Edward Everett Courtenay,02/06/17,51,M,white,Yulee,FL
+Charles Darnell Baker,02/06/17,29,M,black,Abbeville,AL
+Marc Brandon Davis,02/06/17,34,M,black,Petal,MS
+Naway Willy,02/06/17,18,M,asian,Tulsa,OK
+Corsean Lewis,02/06/17,17,M,black,Chicago,IL
+Antonio Gerardo Rodriguez,02/06/17,55,M,hispanic,Laredo,TX
+Donald Lee Cramer,03/06/17,44,M,white,Avondale,AZ
+Jeremy Austin Lindsey,04/06/17,27,M,white,Callahan,FL
+Bruce Dawley,04/06/17,66,M,white,Campo,CA
+Charles Edgar Mullins,05/06/17,45,M,white,Bardstown,KY
+John Spaulding,05/06/17,47,M,black,Miami,FL
+Quentin Louis Case,05/06/17,34,M,white,Lakes Wales,FL
+Adrian Maurice Hardeman,05/06/17,37,M,black,San Antonio,TX
+Mark Ellis,06/06/17,54,M,white,Orrington,ME
+David W. Hamilton,06/06/17,50,M,Other,Vancouver,WA
+Salvadro Alfredo Pablo Lopez,07/06/17,21,M,hispanic,Fresno,CA
+Isaiah M. Hammett,07/06/17,21,M,white,St. Louis,MO
+Blaine Robert Erb,07/06/17,35,M,white,Dundalk,MD
+Donald Smith,07/06/17,75,M,white,Hudson,NC
+Michele Rice,08/06/17,,F,white,Long Beach,CA
+Oscar Junior,08/06/17,45,M,hispanic,Bakersfield,CA
+David Jones,08/06/17,30,M,black,Philadelphia,PA
+Stephen Rich,08/06/17,48,M,white,Loveland,CO
+Paul Mashburn,08/06/17,58,M,white,Roland,OK
+Joshua Barre,09/06/17,29,M,black,Tulsa,OK
+Antonio Juarez,09/06/17,44,M,hispanic,Lyons,IL
+Theodore Brendecke,09/06/17,82,M,white,Miami,FL
+TK TK,10/06/17,,M,Other,Auburn,WA
+Robin Blaylock,10/06/17,53,M,white,North English,IA
+Emmett Edward Hall,10/06/17,60,M,white,Abilene,TX
+Terry Williams,11/06/17,19,M,black,Milwaukee,WI
+Johnny Platas,12/06/17,45,M,hispanic,Selma,CA
+Eleuterio Amaya-Torres,12/06/17,63,M,hispanic,Plano,TX
+John Wesley Bays,12/06/17,50,M,white,Trosper,KY
+Avery D. Metrejean,12/06/17,35,M,white,Cade,LA
+Austin Durham,13/06/17,24,M,white,Jerseyville,IL
+Barry Jones,13/06/17,36,M,white,Hampton,NH
+Jordan Frazier,13/06/17,35,M,black,Baton Rouge,LA
+Chazz Brown,13/06/17,33,M,black,St Louis,MO
+Tommy Le,14/06/17,20,M,asian,Burien,WA
+James T. Hodgkinson,14/06/17,66,M,white,Alexandria,VA
+Michael Morris,14/06/17,54,M,white,Somerville,TN
+Michael Brown,15/06/17,40,M,white,Newton,NH
+Robert J. Berube,16/06/17,41,M,white,Water Valley,MS
+Hector Cisneros Soria,16/06/17,30,M,Other,Rialto,CA
+Sergio Valdovinos,16/06/17,32,M,hispanic,Madera,CA
+Jamie Dougan,16/06/17,24,F,Other,Water Valley,MS
+Nathan Banks,16/06/17,37,M,white,Antioch,CA
+TK TK,17/06/17,28,F,Other,Montebello,CA
+Joseph Paul Hogan,17/06/17,48,M,Other,Rapid City,SD
+Charleena Lyles,18/06/17,30,F,black,Seattle,WA
+William Webster,18/06/17,64,M,white,Waukesha,WI
+Matthew Colton Stover,19/06/17,21,M,native_american,Fairbanks,AK
+Alton Folmar,19/06/17,28,M,white,Dallas,TX
+TK TK,20/06/17,,M,Other,Las Vegas,NV
+TK TK,20/06/17,,M,Other,South Gate,CA
+David Bryan Creson,20/06/17,40,M,white,Franklin,TN
+Jacob Faulkner,20/06/17,32,M,white,St. Clair Township,OH
+Robb Stewart,20/06/17,50,M,white,Lehigh,KS
+Brandon D. Lukenbill,21/06/17,33,M,white,Nevada,MO
+Daniel Francisco Valenzuela,21/06/17,37,M,Other,Millerton,OK
+Armando Garcia-Muro,22/06/17,17,M,hispanic,Palmdale,CA
+Santino Trevino,23/06/17,20,M,Other,Hollywood Hills,CA
+Jesus Ramon Deltoro,23/06/17,34,M,hispanic,Phoenix,AZ
+Cameron Ollman,24/06/17,37,M,white,Florence,OR
+Christopher Michael Murray,24/06/17,,M,Other,Deer Park,AL
+Jimmie Bevenue,24/06/17,47,M,white,Tulsa,OK
+Giovonn Joseph-McDade,24/06/17,20,M,black,Kent,WA
+Lawrence Heyward Jr.,25/06/17,56,M,black,North Charleston,SC
+Deveonte Johnson,25/06/17,24,M,black,Oklahoma City,OK
+Nicholas Johnston,25/06/17,47,M,white,Phoenix,AZ
+TK TK,25/06/17,,M,Other,Las Vegas,NV
+Rip Huntington,26/06/17,36,M,Other,Rowe,NM
+Jason Magana Herrera,27/06/17,35,M,Other,Amarillo,TX
+TK TK,28/06/17,,M,Other,Los Angeles,CA
+Rodney L. Cole,28/06/17,37,M,black,Nashville,TN
+Aaron Bailey,29/06/17,45,M,black,Indianapolis,IN
+TK TK,29/06/17,,M,Other,Burbank,CA
+Joel Gatu Muturi,29/06/17,23,M,Other,Marietta,GA
+Jose Guillermo Flores Colon,29/06/17,37,M,Other,Deltona,FL
+TK TK,30/06/17,,F,Other,Denver,CO
+Chet Knuppel,30/06/17,23,M,Other,Loveland,CO
+Brett Rodriguez,30/06/17,33,M,hispanic,Westminster,CO
+Patrick Sanchez,01/07/17,23,M,hispanic,Glendale,AZ
+Quintec Locke,01/07/17,37,M,black,Lawndale,IL
+Jeremy Holmes,01/07/17,19,M,Other,Fort Collins,CO
+TK TK,02/07/17,,M,Other,Norfolk,VA
+Daniel Craven,03/07/17,53,M,Other,Spokane,WA
+TK TK,03/07/17,,M,Other,Fishers,IN
+TK TK,03/07/17,,M,Other,Portland,OR
+Christopher Henry Cashell,03/07/17,45,M,Other,Bonaire,GA
+TK TK,04/07/17,,M,Other,Federal Heights,CO
+Miguel Gonzales,04/07/17,28,M,Other,Albuquerque,NM
+Dana Dubose,04/07/17,36,M,black,Vandalia,OH
+Cody Ray McCray,04/07/17,32,M,Other,Centerville,UT
+Donald Martin,04/07/17,39,M,Other,Belleville,IL
+Douglas West,04/07/17,46,M,Other,Richland,WA
+Alexander Bonds,05/07/17,34,M,black,New York,NY
+Tiffany Lynn Potter,05/07/17,29,F,white,Des Moines,IA
+Edwin ""Beanie"" Esker,05/07/17,53,M,Other,Maeystown,IL
+Jamie Huskey,05/07/17,45,M,white,Sallisaw,OK
+TK TK,05/07/17,24,M,hispanic,Vista,CA
+Carroll Tuttle,05/07/17,51,M,white,Madison,ME
+Jesus Cervantes,06/07/17,35,M,Other,Plant City,FL
+Dejuan Guillory,06/07/17,27,M,Other,Mamou,LA
+Brian Easley,07/07/17,33,M,black,Marietta,GA
+TK TK,07/07/17,,M,Other,Huntsville,AL
+Kareem Ali Nadir Jones,07/07/17,30,M,Other,Columbus,OH
+Michael Anthony Rude,08/07/17,22,M,Other,Lacey,WA
+TK TK,08/07/17,,M,Other,Crescent City,FL
+Tina Medlin,08/07/17,50,F,white,Newton Grove,NC
+Ryan A. Probst,09/07/17,28,M,Other,Uniontown,OH
+Robert Yeiser,09/07/17,34,M,Other,Bainbridge Island,WA
+Brayant Alvarez,09/07/17,24,M,Other,Chicago,IL
+Edward Taylor,09/07/17,54,M,Other,Akron,OH
+Codey Ethan Mitchell,10/07/17,26,M,Other,Mt Airy,MD
+Gregory Shawn Thrower,10/07/17,39,M,Other,North Branch,MN
+Randy Engstrom,11/07/17,34,M,white,Milwaukee,WI
+Caleb Edward Blaylock,11/07/17,27,M,Other,Las Vegas,NV
+Steve Scott,11/07/17,48,M,Other,Poplar Bluff,MO
+Antonio Garcia Jr.,11/07/17,47,M,black,Leavenworth,KS
+TK TK,11/07/17,,M,Other,Golden Valley,AZ
+Dorsey Glenn Taulbee Jr.,12/07/17,33,M,Other,Oklahoma City,OK
+James Gerald Davis,12/07/17,40,M,Other,Lake View,SC
+TK TK,12/07/17,,M,Other,Grover Beach,CA
+Chancey Chamblee,13/07/17,55,M,white,Pima,AZ
+Stephen Steele,13/07/17,56,M,Other,Crystal Springs,FL
+Pedro Rubio,13/07/17,42,M,Other,Goodyear,AZ
+Ramiro Bravo Ramirez,14/07/17,34,M,Other,Greenville,SC
+Gerber Dieguez,15/07/17,29,M,Other,Los Angeles,CA
+Justine Damond,15/07/17,40,F,white,Minneapolis,MN
+TK TK,15/07/17,23,M,Other,Moreno Valley,CA
+TK TK,15/07/17,,M,Other,Arlington,TX
+India N. Nelson,17/07/17,25,F,Other,Norfolk,VA
+Ernesto Sedillo,17/07/17,52,M,Other,Las Cruces,NM
+Eric Wesley Clark,17/07/17,43,M,Other,Culpeper,VA
+Jose Cazares,17/07/17,37,M,hispanic,San Antonio,TX
+Daniel Thomas Reid,18/07/17,32,M,white,Clay,AL
+Robert Earl Vaughan,18/07/17,70,M,Other,Springfield,OR
+Mark Allan Smith,18/07/17,36,M,Other,Eagar,AZ
+TK TK,19/07/17,24,M,Other,Fair Oaks,CA
+Anthony Benavidez,19/07/17,24,M,Other,Santa Fe,NM
+Farhad Jabbari,19/07/17,38,M,Other,Saginaw,MI
+Joshua Daniels,20/07/17,52,M,white,Neosho,MO
+Isaiah Perkins,20/07/17,27,M,black,St. Louis,MO
+Yahir Breito,21/07/17,22,M,Other,Santa Ana,CA
+Vicente Velasquez,21/07/17,42,M,Other,Mission,TX
+Walter Lynde,23/07/17,49,M,white,Spencer,MA
+Michael Caponigro,23/07/17,59,M,white,Eau Claire,WI
+Ismael Lopez Rodriguez,23/07/17,41,M,hispanic,Southaven,MS
+Kyle Scott Rushing,23/07/17,34,M,white,Chico,CA
+Jerrod Kershaw,24/07/17,31,M,white,St. Louis,MO
+Alexander J. Schoessel,25/07/17,23,M,white,Richmond,VA
+Michael Joseph Harris,25/07/17,28,M,white,Jacksonville,FL
+Moises Balladares,25/07/17,33,M,Other,Avondale,AZ
+Aries Clark,25/07/17,16,M,black,Marion,AR
+TK TK,26/07/17,35,M,Other,Phoenix,AZ
+TK TK,26/07/17,,M,Other,San Antonio,TX
+Susan Teel,26/07/17,62,F,Other,Vero Beach,FL
+Kesharn K. Burney,26/07/17,25,M,black,Dayton,OH
+Jerauld Phillip Hammond II,27/07/17,46,M,Other,Los Angeles,CA
+Deltra Henderson,27/07/17,39,M,black,Homer,LA
+Sergio Velasco-Martinez,27/07/17,25,M,Other,Avenal,CA
+Matthew Folden,27/07/17,31,M,Other,Wenatchee,WA
+Alejandro Alvarado,27/07/17,,M,hispanic,Chowchilla,CA
+Brian J. Skinner,28/07/17,32,M,Other,Glenville,NY
+Rodney E. Jacobs,28/07/17,31,M,Other,Kansas City,MO
+TK TK,28/07/17,,M,Other,Albuquerque,NM
+Dennis W. Robinson,29/07/17,48,M,Other,Melba,ID
+Isaiah Tucker,31/07/17,28,M,black,Oshkosh,WI
+Dwayne Jeune,31/07/17,32,M,black,Brooklyn,NY
